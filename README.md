@@ -11,6 +11,8 @@
 * [Zipper](https://wiki.haskell.org/Zipper).
 * [List comprehension](https://wiki.haskell.org/List_comprehension)
 
-
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
+
+## Librairies
+* [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
