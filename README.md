@@ -20,3 +20,7 @@
 
 ## Libraries
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
+* [Haxl](https://github.com/facebook/Haxl)
+
+## Sample Projects
+* [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
