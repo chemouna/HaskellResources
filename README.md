@@ -5,6 +5,9 @@
 ## Why Haskell
 * [Why learn Haskell](http://dirk.rave.org/whyhaskell.html).
 
+## Learning Haskell
+* [Haskell Fast & Hard](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
+
 ## Examples
 * [10 Haskell One Liners to Impress Your Friends](http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/)
 
