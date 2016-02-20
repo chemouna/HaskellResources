@@ -22,6 +22,7 @@
 * [Hackage](http://hackage.haskell.org/).
 * [Cabal-install](http://hackage.haskell.org/package/cabal-install).
 * [Repeat after me: "Cabal is not a Package Manager"](https://ivanmiljenovic.wordpress.com/2010/03/15/repeat-after-me-cabal-is-not-a-package-manager/)
+* [Haddock](https://github.com/haskell/haddock).
 
 ## Librairies
 * [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
