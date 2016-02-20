@@ -19,17 +19,17 @@
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 
 ## Tools
+* [Hackage](http://hackage.haskell.org/).
+* [Cabal-install](http://hackage.haskell.org/package/cabal-install).
 * [Repeat after me: "Cabal is not a Package Manager"](https://ivanmiljenovic.wordpress.com/2010/03/15/repeat-after-me-cabal-is-not-a-package-manager/)
 
 ## Librairies
+* [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
-<<<<<<< 2f5f0c26bb9df95e9e2040a03e82989e845f19b9
 * [Haxl](https://github.com/facebook/Haxl)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
-=======
 
 ## Projects
 * [Yi: The Haskell-Scriptable Editor](https://github.com/yi-editor/yi).
->>>>>>> Add Yi.
