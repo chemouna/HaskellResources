@@ -18,7 +18,10 @@
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 
-## Libraries
+## Tools
+* [Repeat after me: "Cabal is not a Package Manager"](https://ivanmiljenovic.wordpress.com/2010/03/15/repeat-after-me-cabal-is-not-a-package-manager/)
+
+## Librairies
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
 * [Haxl](https://github.com/facebook/Haxl)
 
