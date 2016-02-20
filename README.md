@@ -29,6 +29,12 @@
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
 * [Haxl](https://github.com/facebook/Haxl)
 
+## Web developement
+* [Yesod](http://www.yesodweb.com/).
+
+## Testing
+* [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
+
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
 
