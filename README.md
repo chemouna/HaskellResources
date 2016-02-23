@@ -20,6 +20,7 @@
 
 ## Module System 
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
+* [Modules And Some Haskell Examples](http://learnyouahaskell.com/modules)
 
 ## Tools
 * [Hackage](http://hackage.haskell.org/).
