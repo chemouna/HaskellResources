@@ -18,6 +18,9 @@
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 
+## Module System 
+* [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
+
 ## Tools
 * [Hackage](http://hackage.haskell.org/).
 * [Cabal-install](http://hackage.haskell.org/package/cabal-install).
