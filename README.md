@@ -10,6 +10,7 @@
 * [School of Haskell](https://www.schoolofhaskell.com/)
 * [Learn You a Haskell: Starting Out](http://learnyouahaskell.com/starting-out#babys-first-functions)
 * [Learn You a Haskell: Types and Typeclasses](http://learnyouahaskell.com/types-and-typeclasses)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/#hard-part)
 
 ## Examples
 * [10 Haskell One Liners to Impress Your Friends](http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/)
@@ -18,6 +19,9 @@
 * [Zipper](https://wiki.haskell.org/Zipper).
 * [List comprehension](https://wiki.haskell.org/List_comprehension)
 * [Lists and tuples](https://en.wikibooks.org/wiki/Haskell/Lists_and_tuples)
+
+## Types 
+* [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
