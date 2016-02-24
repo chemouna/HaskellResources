@@ -9,6 +9,7 @@
 * [Haskell Fast & Hard](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
 * [School of Haskell](https://www.schoolofhaskell.com/)
 * [Learn You a Haskell: Starting Out](http://learnyouahaskell.com/starting-out#babys-first-functions)
+* [Learn You a Haskell: Types and Typeclasses](http://learnyouahaskell.com/types-and-typeclasses)
 
 ## Examples
 * [10 Haskell One Liners to Impress Your Friends](http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/)
