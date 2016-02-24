@@ -17,6 +17,7 @@
 ## Data structures
 * [Zipper](https://wiki.haskell.org/Zipper).
 * [List comprehension](https://wiki.haskell.org/List_comprehension)
+* [Lists and tuples](https://en.wikibooks.org/wiki/Haskell/Lists_and_tuples)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
