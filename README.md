@@ -24,6 +24,7 @@
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
 * [The Algebra of Algebraic Data Types, Part 1](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 * [The Algebra of Algebraic Data Types, Part 2](http://chris-taylor.github.io/blog/2013/02/11/the-algebra-of-algebraic-data-types-part-ii/)
+* [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
@@ -58,13 +59,10 @@
 
 ## Projects
 * [Yi: The Haskell-Scriptable Editor](https://github.com/yi-editor/yi).
-<<<<<<< 14695c133e5ffdfdbc5a16c2cb1ed300c81d67a3
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator).
 
 ## Cheat Sheets
 * [Haskell Cheat sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
-=======
 
 ## Blogs 
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
->>>>>>> More on ADTs
