@@ -20,13 +20,13 @@
 * [List comprehension](https://wiki.haskell.org/List_comprehension)
 * [Lists and tuples](https://en.wikibooks.org/wiki/Haskell/Lists_and_tuples)
 
-## Types 
+## Types
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 
-## Module System 
+## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
 * [Modules And Some Haskell Examples](http://learnyouahaskell.com/modules)
 
@@ -37,6 +37,7 @@
 * [Repeat after me: "Cabal is not a Package Manager"](https://ivanmiljenovic.wordpress.com/2010/03/15/repeat-after-me-cabal-is-not-a-package-manager/)
 * [Haddock](https://github.com/haskell/haddock).
 * [Using Emacs for Haskell development](https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md)
+* [Hayoo! - Haskell API Search](http://hayoo.fh-wedel.de/)
 
 ## Librairies
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
@@ -51,7 +52,11 @@
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
 
 ## Sample Projects
+<<<<<<< Updated upstream
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
 
 ## Projects
 * [Yi: The Haskell-Scriptable Editor](https://github.com/yi-editor/yi).
+=======
+* [hFileGenerator](https://github.com/mkrull/hFileGenerator).
+>>>>>>> Stashed changes
