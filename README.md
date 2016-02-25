@@ -52,11 +52,11 @@
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
 
 ## Sample Projects
-<<<<<<< Updated upstream
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
 
 ## Projects
 * [Yi: The Haskell-Scriptable Editor](https://github.com/yi-editor/yi).
-=======
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator).
->>>>>>> Stashed changes
+
+## Cheat Sheets
+* [Haskell Cheat sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
