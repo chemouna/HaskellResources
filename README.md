@@ -10,6 +10,7 @@
 * [School of Haskell](https://www.schoolofhaskell.com/)
 * [Learn You a Haskell: Starting Out](http://learnyouahaskell.com/starting-out#babys-first-functions)
 * [Learn You a Haskell: Types and Typeclasses](http://learnyouahaskell.com/types-and-typeclasses)
+* [Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/#hard-part)
 
 ## Examples
@@ -32,6 +33,9 @@
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
 * [Modules And Some Haskell Examples](http://learnyouahaskell.com/modules)
+
+## Solving problems with Haskell 
+* [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
 ## Tools
 * [Hoogle: Haskell API search engine](https://www.haskell.org/hoogle/)
