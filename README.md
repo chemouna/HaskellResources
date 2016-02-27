@@ -10,7 +10,8 @@
 * [School of Haskell](https://www.schoolofhaskell.com/)
 * [Learn You a Haskell: Starting Out](http://learnyouahaskell.com/starting-out#babys-first-functions)
 * [Learn You a Haskell: Types and Typeclasses](http://learnyouahaskell.com/types-and-typeclasses)
-* [Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions)
+* [Learn You a Haskell: Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions)
+* [Learn You a Haskell: Recursion](http://learnyouahaskell.com/recursion)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/#hard-part)
 
 ## Examples
