@@ -12,7 +12,11 @@
 * [Learn You a Haskell: Types and Typeclasses](http://learnyouahaskell.com/types-and-typeclasses)
 * [Learn You a Haskell: Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions)
 * [Learn You a Haskell: Recursion](http://learnyouahaskell.com/recursion)
+* [Learn You a Haskell: Higher order functions](http://learnyouahaskell.com/higher-order-functions)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/#hard-part)
+
+## Currying
+* [Currying](https://wiki.haskell.org/Currying)
 
 ## Examples
 * [10 Haskell One Liners to Impress Your Friends](http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/)
@@ -71,3 +75,6 @@
 
 ## Blogs 
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
+
+## Books 
+* [List of Haskell Books](https://wiki.haskell.org/Books)
