@@ -45,6 +45,7 @@
 * [Infix operator](https://wiki.haskell.org/Infix_operator)
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
 * [Pointfree](https://wiki.haskell.org/Pointfree)
+* [Fold](https://wiki.haskell.org/Fold)
 
 ## Solving problems with Haskell 
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
