@@ -17,6 +17,8 @@
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
+* [Currying and Partial Application](https://www.schoolofhaskell.com/user/EFulmer/currying-and-partial-application)
+* [Currying and Partial Application](https://wunki.org/posts/2011-10-04-currying-and-partial-application.html)
 
 ## Examples
 * [10 Haskell One Liners to Impress Your Friends](http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/)
