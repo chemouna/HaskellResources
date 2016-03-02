@@ -33,6 +33,7 @@
 * [The Algebra of Algebraic Data Types, Part 1](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 * [The Algebra of Algebraic Data Types, Part 2](http://chris-taylor.github.io/blog/2013/02/11/the-algebra-of-algebraic-data-types-part-ii/)
 * [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
+* [Typeclasses: Polymorphism in Haskell](http://andrew.gibiansky.com/blog/haskell/haskell-typeclasses/)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
@@ -46,6 +47,7 @@
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
 * [Pointfree](https://wiki.haskell.org/Pointfree)
 * [Fold](https://wiki.haskell.org/Fold)
+* [Haskell: Foldl as Foldr](http://blog.wakatta.jp/blog/2011/11/09/haskell-foldl-as-foldr/)
 
 ## Solving problems with Haskell 
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
@@ -83,6 +85,8 @@
 
 ## Blogs 
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
+* [Andrew Gibiansky   ::   Math → Code](http://andrew.gibiansky.com/)
+* [Mark Needham Blog](http://www.markhneedham.com/blog/)
 
 ## Books 
 * [List of Haskell Books](https://wiki.haskell.org/Books)
