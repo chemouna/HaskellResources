@@ -87,6 +87,9 @@
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
 * [Andrew Gibiansky   ::   Math → Code](http://andrew.gibiansky.com/)
 * [Mark Needham Blog](http://www.markhneedham.com/blog/)
+* [λ Tony's blog λ](http://blog.tmorris.net/)
+* [Neil Mitchell's Haskell Blog](http://neilmitchell.blogspot.fr/)
+* [Stephen Diehl Blog](http://www.stephendiehl.com/posts.html)
 
 ## Books 
 * [List of Haskell Books](https://wiki.haskell.org/Books)
