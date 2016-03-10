@@ -67,6 +67,9 @@
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
 * [Haxl](https://github.com/facebook/Haxl)
 
+## Concurrency 
+* [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
+
 ## Web developement
 * [Yesod](http://www.yesodweb.com/).
 
@@ -93,3 +96,4 @@
 
 ## Books 
 * [List of Haskell Books](https://wiki.haskell.org/Books)
+* [Blog Inside 736-131](http://blog.ezyang.com/)
