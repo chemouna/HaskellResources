@@ -4,6 +4,7 @@
 
 ## Why Haskell
 * [Why learn Haskell](http://dirk.rave.org/whyhaskell.html).
+* [Hello Haskell, Goodbye Lisp](http://newartisans.com/2009/03/hello-haskell-goodbye-lisp/)
 
 ## Learning Haskell
 * [Haskell Fast & Hard](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
@@ -66,6 +67,7 @@
 * [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
 * [Haxl](https://github.com/facebook/Haxl)
+* [Template Haskell](https://wiki.haskell.org/Template_Haskell)
 
 ## Concurrency 
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
