@@ -35,6 +35,8 @@
 * [The Algebra of Algebraic Data Types, Part 2](http://chris-taylor.github.io/blog/2013/02/11/the-algebra-of-algebraic-data-types-part-ii/)
 * [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
 * [Typeclasses: Polymorphism in Haskell](http://andrew.gibiansky.com/blog/haskell/haskell-typeclasses/)
+* [Polymorphism](https://wiki.haskell.org/Ad-hoc_polymorphism)
+
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
