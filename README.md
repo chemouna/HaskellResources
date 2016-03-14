@@ -36,6 +36,7 @@
 * [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
 * [Typeclasses: Polymorphism in Haskell](http://andrew.gibiansky.com/blog/haskell/haskell-typeclasses/)
 * [Polymorphism](https://wiki.haskell.org/Ad-hoc_polymorphism)
+* [Haskell Impredicative types](https://wiki.haskell.org/Impredicative_types)
 
 
 ## Concepts
