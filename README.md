@@ -15,6 +15,7 @@
 * [Learn You a Haskell: Recursion](http://learnyouahaskell.com/recursion)
 * [Learn You a Haskell: Higher order functions](http://learnyouahaskell.com/higher-order-functions)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/#hard-part)
+* [What i wish i knew when learning haskell](http://dev.stephendiehl.com/hask/)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
@@ -46,14 +47,14 @@
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
 * [Modules And Some Haskell Examples](http://learnyouahaskell.com/modules)
 
-## Functions 
+## Functions
 * [Infix operator](https://wiki.haskell.org/Infix_operator)
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
 * [Pointfree](https://wiki.haskell.org/Pointfree)
 * [Fold](https://wiki.haskell.org/Fold)
 * [Haskell: Foldl as Foldr](http://blog.wakatta.jp/blog/2011/11/09/haskell-foldl-as-foldr/)
 
-## Solving problems with Haskell 
+## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
 ## Tools
@@ -72,7 +73,7 @@
 * [Haxl](https://github.com/facebook/Haxl)
 * [Template Haskell](https://wiki.haskell.org/Template_Haskell)
 
-## Concurrency 
+## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
 
 ## Web developement
@@ -90,8 +91,10 @@
 
 ## Cheat Sheets
 * [Haskell Cheat sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
+* [Haskell Cheat sheet #2](http://www.cheat-sheets.org/saved-copy/Haskell.Haskell_Cheat_Sheet.pdf)
+* [Dartmouth Haskell Cheat sheet](http://www.cs.dartmouth.edu/~cs8/F2011/handouts/CheatSheet.pdf)
 
-## Blogs 
+## Blogs
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
 * [Andrew Gibiansky   ::   Math → Code](http://andrew.gibiansky.com/)
 * [Mark Needham Blog](http://www.markhneedham.com/blog/)
@@ -99,6 +102,13 @@
 * [Neil Mitchell's Haskell Blog](http://neilmitchell.blogspot.fr/)
 * [Stephen Diehl Blog](http://www.stephendiehl.com/posts.html)
 
-## Books 
+## Learning Resources
+* [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
+* [haskell-must-watch](https://github.com/olehkuchuk/haskell-must-watch)
+* [awesome-haskell](https://github.com/uhub/awesome-haskell)
+* [Pack of resources and exercises for learning Haskell.](https://github.com/afonsomatos/haskell)
+* [A collection of links for the new haskeller](https://github.com/a3gis/haskell-resources)
+
+## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
 * [Blog Inside 736-131](http://blog.ezyang.com/)
