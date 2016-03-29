@@ -53,6 +53,7 @@
 * [Pointfree](https://wiki.haskell.org/Pointfree)
 * [Fold](https://wiki.haskell.org/Fold)
 * [Haskell: Foldl as Foldr](http://blog.wakatta.jp/blog/2011/11/09/haskell-foldl-as-foldr/)
+* [Haskell- foldl and foldr?](http://stackoverflow.com/questions/13280159/haskell-foldl-and-foldr/13280185)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
