@@ -38,7 +38,7 @@
 * [Typeclasses: Polymorphism in Haskell](http://andrew.gibiansky.com/blog/haskell/haskell-typeclasses/)
 * [Polymorphism](https://wiki.haskell.org/Ad-hoc_polymorphism)
 * [Haskell Impredicative types](https://wiki.haskell.org/Impredicative_types)
-
+* [Constructor](https://wiki.haskell.org/Constructor)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
