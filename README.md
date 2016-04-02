@@ -113,7 +113,8 @@
 * [Stephen Diehl Blog](http://www.stephendiehl.com/posts.html)
 * [Haskell for all](http://www.haskellforall.com/)
 * [Functional Programming Debugs You](http://nikita-volkov.github.io/)
-
+* [Blog Inside 736-131](http://blog.ezyang.com/)
+  
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
 * [haskell-must-watch](https://github.com/olehkuchuk/haskell-must-watch)
@@ -123,4 +124,3 @@
 
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
-* [Blog Inside 736-131](http://blog.ezyang.com/)
