@@ -110,6 +110,7 @@
 * [Neil Mitchell's Haskell Blog](http://neilmitchell.blogspot.fr/)
 * [Stephen Diehl Blog](http://www.stephendiehl.com/posts.html)
 * [Haskell for all](http://www.haskellforall.com/)
+* [Functional Programming Debugs You](http://nikita-volkov.github.io/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
