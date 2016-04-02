@@ -47,6 +47,7 @@
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
+* [Recursion patterns, polymorphism, and the Prelude](http://www.seas.upenn.edu/~cis194/spring13/lectures/03-rec-poly.html)
 
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
