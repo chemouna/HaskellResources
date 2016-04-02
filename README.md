@@ -44,6 +44,7 @@
 * [Haskell Impredicative types](https://wiki.haskell.org/Impredicative_types)
 * [Constructor](https://wiki.haskell.org/Constructor)
 * [Algebraic Data Types](http://www.seas.upenn.edu/~cis194/spring13/lectures/02-ADTs.html)
+* [CIS 194 - More polymorphism and type classes](http://www.seas.upenn.edu/~cis194/spring13/lectures/05-type-classes.html)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
