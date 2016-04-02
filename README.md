@@ -19,6 +19,7 @@
 * [Functional Educatio](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
 * [CIS 194: Introduction to Haskell (Spring 2013)](http://www.seas.upenn.edu/~cis194/spring13/)
 * [NICTA Functional Programming Course](https://github.com/NICTA/course/)
+* [Learn Haskell](https://github.com/bitemyapp/learnhaskell)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
