@@ -61,7 +61,7 @@
 * [Haskell: Foldl as Foldr](http://blog.wakatta.jp/blog/2011/11/09/haskell-foldl-as-foldr/)
 * [Haskell- foldl and foldr?](http://stackoverflow.com/questions/13280159/haskell-foldl-and-foldr/13280185)
 * [Folding infinite lists in Haskell](http://www.codiply.com/blog/folding-infinite-lists-in-haskell/)
-
+* [Higher Order Programming and Type Inference](http://www.seas.upenn.edu/%7Ecis194/spring13/lectures/04-higher-order.html)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
