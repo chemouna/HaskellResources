@@ -94,6 +94,7 @@
 ## Projects
 * [Yi: The Haskell-Scriptable Editor](https://github.com/yi-editor/yi).
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator).
+* [Pandoc: Universal markup converter](https://github.com/jgm/pandoc/)
 
 ## Cheat Sheets
 * [Haskell Cheat sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
@@ -107,6 +108,7 @@
 * [λ Tony's blog λ](http://blog.tmorris.net/)
 * [Neil Mitchell's Haskell Blog](http://neilmitchell.blogspot.fr/)
 * [Stephen Diehl Blog](http://www.stephendiehl.com/posts.html)
+* [Haskell for all](http://www.haskellforall.com/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
