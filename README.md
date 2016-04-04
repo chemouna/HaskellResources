@@ -64,6 +64,7 @@
 * [Folding infinite lists in Haskell](http://www.codiply.com/blog/folding-infinite-lists-in-haskell/)
 * [Higher Order Programming and Type Inference](http://www.seas.upenn.edu/%7Ecis194/spring13/lectures/04-higher-order.html)
 * [Folds and monoids](http://www.seas.upenn.edu/~cis194/spring13/lectures/07-folds-monoids.html)
+* [Applicative functors, Part I](http://www.seas.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
