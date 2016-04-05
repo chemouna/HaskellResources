@@ -78,6 +78,7 @@
 * [Haddock](https://github.com/haskell/haddock).
 * [Using Emacs for Haskell development](https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md)
 * [Hayoo! - Haskell API Search](http://hayoo.fh-wedel.de/)
+* [Hlint](https://github.com/ndmitchell/hlint#readme)
 
 ## Librairies
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
