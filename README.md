@@ -56,6 +56,7 @@
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
 * [Modules And Some Haskell Examples](http://learnyouahaskell.com/modules)
+* [Import Statement](https://wiki.haskell.org/Import)
 
 ## Functions
 * [Infix operator](https://wiki.haskell.org/Infix_operator)
