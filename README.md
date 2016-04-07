@@ -21,7 +21,7 @@
 * [NICTA Functional Programming Course](https://github.com/NICTA/course/)
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell)
 * [How to read Haskell](https://wiki.haskell.org/How_to_read_Haskell)
-
+* [Haskell: The Confusing Parts](http://echo.rsmw.net/n00bfaq.html)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
