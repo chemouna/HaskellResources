@@ -107,6 +107,9 @@
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
 
+## GHC Base 
+* [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
+
 ## Monoids 
 * [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
