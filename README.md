@@ -110,6 +110,7 @@
 ## Monoids 
 * [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
+* [Data.Monoid](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Monoid.html)
 
     
 ## Monads 
