@@ -108,7 +108,8 @@
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
 
 ## Monoids 
-* (Monoids - Typeclassopedia)[https://wiki.haskell.org/Typeclassopedia#Monoid]
+* [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
+* [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 
     
 ## Monads 
