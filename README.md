@@ -22,6 +22,7 @@
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell)
 * [How to read Haskell](https://wiki.haskell.org/How_to_read_Haskell)
 * [Haskell: The Confusing Parts](http://echo.rsmw.net/n00bfaq.html)
+* [Random thoughts on Haskell](http://blog.enfranchisedmind.com/2009/01/random-thoughts-on-haskell/)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
@@ -105,6 +106,13 @@
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
+
+## Monoids 
+* (Monoids - Typeclassopedia)[https://wiki.haskell.org/Typeclassopedia#Monoid]
+
+    
+## Monads 
+
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
