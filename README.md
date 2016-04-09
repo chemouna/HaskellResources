@@ -31,6 +31,7 @@
 
 ## Examples
 * [10 Haskell One Liners to Impress Your Friends](http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/)
+* [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
 
 ## Data structures
 * [Zipper](https://wiki.haskell.org/Zipper).
@@ -74,6 +75,8 @@
 * [Folds and monoids](http://www.seas.upenn.edu/~cis194/spring13/lectures/07-folds-monoids.html)
 * [Applicative functors, Part I](http://www.seas.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monads](http://www.seas.upenn.edu/~cis194/spring13/lectures/12-monads.html)
+* [Combinator](https://wiki.haskell.org/Combinator)
+* [How I finally understood the Y Combinator (and blew my damn mind)](https://noeit.wordpress.com/2009/04/28/how-i-finally-understood-the-y-combinator-and-blew-my-damn-mind/)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
@@ -110,6 +113,7 @@
 ## GHC Base 
 * [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
 * [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
+* [Data.Function](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Function.html)
 
 ## Monoids 
 * [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
