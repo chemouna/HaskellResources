@@ -83,6 +83,7 @@
 
 ## Operators
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
+* [Accumulators in Haskell](http://blog.openendings.net/2014/08/accumulators-in-haskell.html)
 
 ## Tools
 * [Hoogle: Haskell API search engine](https://www.haskell.org/hoogle/)
