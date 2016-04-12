@@ -23,6 +23,7 @@
 * [How to read Haskell](https://wiki.haskell.org/How_to_read_Haskell)
 * [Haskell: The Confusing Parts](http://echo.rsmw.net/n00bfaq.html)
 * [Random thoughts on Haskell](http://blog.enfranchisedmind.com/2009/01/random-thoughts-on-haskell/)
+* [10 things I learnt diving in the functional programming deep end – with Haskell](https://blog.pusher.com/10-things-i-learnt-diving-in-the-functional-programming-deep-end-with-haskell/)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
