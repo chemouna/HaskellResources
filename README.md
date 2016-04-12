@@ -170,6 +170,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Philip Wadler's Blog](http://wadler.blogspot.com/)
 * [Chris Done Blog](http://chrisdone.com/)
 * [Jasper Van der Jeugt Blog](https://jaspervdj.be/)
+* [Cabal Testing Summer Of Code](http://cabaltest.blogspot.com/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
@@ -184,3 +185,5 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Collections
 * [planet haskell](http://planet.haskell.org/)
 * [Lambda the Ultimate](http://lambda-the-ultimate.org/)
+
+
