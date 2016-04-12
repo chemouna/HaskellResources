@@ -57,6 +57,8 @@
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 * [Recursion patterns, polymorphism, and the Prelude](http://www.seas.upenn.edu/~cis194/spring13/lectures/03-rec-poly.html)
+* [Dependent type](https://wiki.haskell.org/Dependent_type)
+
 
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
@@ -73,7 +75,8 @@
 * [Folding infinite lists in Haskell](http://www.codiply.com/blog/folding-infinite-lists-in-haskell/)
 * [Higher Order Programming and Type Inference](http://www.seas.upenn.edu/%7Ecis194/spring13/lectures/04-higher-order.html)
 * [Folds and monoids](http://www.seas.upenn.edu/~cis194/spring13/lectures/07-folds-monoids.html)
-* [Applicative functors, Part I](http://www.seas.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
+* [Applicative functors, Part I](http://www.se
+as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monads](http://www.seas.upenn.edu/~cis194/spring13/lectures/12-monads.html)
 * [Combinator](https://wiki.haskell.org/Combinator)
 * [How I finally understood the Y Combinator (and blew my damn mind)](https://noeit.wordpress.com/2009/04/28/how-i-finally-understood-the-y-combinator-and-blew-my-damn-mind/)
