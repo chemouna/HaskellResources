@@ -105,6 +105,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
 * [Haxl](https://github.com/facebook/Haxl)
 * [Template Haskell](https://wiki.haskell.org/Template_Haskell)
+* [Haskell Packages by category](http://hackage.haskell.org/packages)
 
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
@@ -117,6 +118,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Assertions in Haskell](https://randomdeterminism.wordpress.com/2009/02/01/assertions-in-haskell/)
 * [test-framework](http://batterseapower.github.io/test-framework/) and on [github](https://github.com/haskell/test-framework)
 * [Code testing in Haskell](http://lambda.jstolarek.com/2012/10/code-testing-in-haskell/)
+* [The tasty-golden package](http://hackage.haskell.org/package/tasty-golden)
+
+## Debugging 
+* [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
 
 ## GHC Base 
 * [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
