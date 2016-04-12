@@ -155,6 +155,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Blog Inside 736-131](http://blog.ezyang.com/)
 * [A Neighborhood of Infinity](http://blog.sigfpe.com/)
 * [Random Determinism](https://randomdeterminism.wordpress.com/tag/haskell/)
+* [Yet Another Lambda Blog](http://lambda.jstolarek.com/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
