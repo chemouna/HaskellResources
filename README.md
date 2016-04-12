@@ -168,5 +168,6 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
 
-## Newsletters
+## Collections
 * [planet haskell](http://planet.haskell.org/)
+* [Lambda the Ultimate](http://lambda-the-ultimate.org/)
