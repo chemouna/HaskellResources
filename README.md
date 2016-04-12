@@ -178,6 +178,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [awesome-haskell](https://github.com/uhub/awesome-haskell)
 * [Pack of resources and exercises for learning Haskell.](https://github.com/afonsomatos/haskell)
 * [A collection of links for the new haskeller](https://github.com/a3gis/haskell-resources)
+* [Useful online resources to learn Haskell](https://blog.pusher.com/best-free-online-resources-to-learn-haskell/)
 
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
