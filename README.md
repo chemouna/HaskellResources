@@ -164,6 +164,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Random Determinism](https://randomdeterminism.wordpress.com/tag/haskell/)
 * [Yet Another Lambda Blog](http://lambda.jstolarek.com/)
 * [Philip Wadler's Blog](http://wadler.blogspot.com/)
+* [Chris Done Blog](http://chrisdone.com/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
