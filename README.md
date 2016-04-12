@@ -99,6 +99,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Hayoo! - Haskell API Search](http://hayoo.fh-wedel.de/)
 * [Hlint](https://github.com/ndmitchell/hlint#readme)
 
+## Editors 
+* [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
+
 ## Librairies
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
 * [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
@@ -119,6 +122,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [test-framework](http://batterseapower.github.io/test-framework/) and on [github](https://github.com/haskell/test-framework)
 * [Code testing in Haskell](http://lambda.jstolarek.com/2012/10/code-testing-in-haskell/)
 * [The tasty-golden package](http://hackage.haskell.org/package/tasty-golden)
+* [Practical testing in Haskell](https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
 
 ## Debugging 
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
@@ -165,6 +169,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Yet Another Lambda Blog](http://lambda.jstolarek.com/)
 * [Philip Wadler's Blog](http://wadler.blogspot.com/)
 * [Chris Done Blog](http://chrisdone.com/)
+* [Jasper Van der Jeugt Blog](https://jaspervdj.be/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
