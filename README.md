@@ -115,6 +115,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
 * [Assertions in Haskell](https://randomdeterminism.wordpress.com/2009/02/01/assertions-in-haskell/)
+* [test-framework](http://batterseapower.github.io/test-framework/) and on [github](https://github.com/haskell/test-framework)
+* [Code testing in Haskell](http://lambda.jstolarek.com/2012/10/code-testing-in-haskell/)
 
 ## GHC Base 
 * [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
