@@ -113,6 +113,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
+* [Assertions in Haskell](https://randomdeterminism.wordpress.com/2009/02/01/assertions-in-haskell/)
 
 ## GHC Base 
 * [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
@@ -152,6 +153,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Functional Programming Debugs You](http://nikita-volkov.github.io/)
 * [Blog Inside 736-131](http://blog.ezyang.com/)
 * [A Neighborhood of Infinity](http://blog.sigfpe.com/)
+* [Random Determinism](https://randomdeterminism.wordpress.com/tag/haskell/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
