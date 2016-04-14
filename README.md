@@ -5,6 +5,7 @@
 ## Why Haskell
 * [Why learn Haskell](http://dirk.rave.org/whyhaskell.html).
 * [Hello Haskell, Goodbye Lisp](http://newartisans.com/2009/03/hello-haskell-goodbye-lisp/)
+* [Why not Haskell?](http://neugierig.org/software/blog/2011/10/why-not-haskell.html)
 
 ## Learning Haskell
 * [Haskell Fast & Hard](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
@@ -24,6 +25,8 @@
 * [Haskell: The Confusing Parts](http://echo.rsmw.net/n00bfaq.html)
 * [Random thoughts on Haskell](http://blog.enfranchisedmind.com/2009/01/random-thoughts-on-haskell/)
 * [10 things I learnt diving in the functional programming deep end – with Haskell](https://blog.pusher.com/10-things-i-learnt-diving-in-the-functional-programming-deep-end-with-haskell/)
+* [How to learn Haskell](http://dmi3s.blogspot.com/2012/07/how-to-learn-haskell.html)
+* [On Haskell, Intuition And Expressive Power](http://www.defmacro.org/ramblings/haskell-productivity.html)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
