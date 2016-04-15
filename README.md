@@ -146,6 +146,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Arrows 
 * [Arrow](https://wiki.haskell.org/Arrow)
+* [Arrows: A General Interface to Computation](https://www.haskell.org/arrows/biblio.html)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
