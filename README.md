@@ -147,6 +147,19 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Arrows 
 * [Arrow](https://wiki.haskell.org/Arrow)
 * [Arrows: A General Interface to Computation](https://www.haskell.org/arrows/biblio.html)
+* [arrows: Arrow classes and transformers package](http://hackage.haskell.org/package/arrows)
+* [When to use Arrows over Monads](http://caml.inria.fr/pub/ml-archives/caml-list/2000/08/3c42f0fad3b3ecaca4f6043af65f6315.en.html)
+* [Some papers related to Arrows](http://www.staff.city.ac.uk/~ross/)
+
+## Fudgets 
+* [Fudgets](http://www.altocumulus.org/Fudgets/)
+* [Related Papers](http://www.altocumulus.org/Fudgets/publications.html)
+
+## UI in Haskell 
+* [Phooey: Functional UI library for Haskell](https://wiki.haskell.org/Phooey)
+
+## FRP 
+* [Grapefruit: Library for Functional Reactive Programming ](https://wiki.haskell.org/Grapefruit)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
