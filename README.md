@@ -143,6 +143,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
     
 ## Monads 
+* [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
+
 
 ## Arrows 
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -157,9 +159,14 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## UI in Haskell 
 * [Phooey: Functional UI library for Haskell](https://wiki.haskell.org/Phooey)
+* [Tangible Value - TV : a library for composing tangible values](https://wiki.haskell.org/TV)
 
 ## FRP 
 * [Grapefruit: Library for Functional Reactive Programming ](https://wiki.haskell.org/Grapefruit)
+* [Grapefruit/Comparison to other FRP libraries](https://wiki.haskell.org/Grapefruit/Comparison_to_other_FRP_libraries)
+* [Reactive](https://wiki.haskell.org/Reactive)
+* [Functional Reactive Animation](http://conal.net/Fran/)
+* [Simply efficient functional reactivity](http://conal.net/papers/simply-reactive/)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
