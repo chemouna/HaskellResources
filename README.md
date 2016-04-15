@@ -6,6 +6,7 @@
 * [Why learn Haskell](http://dirk.rave.org/whyhaskell.html).
 * [Hello Haskell, Goodbye Lisp](http://newartisans.com/2009/03/hello-haskell-goodbye-lisp/)
 * [Why not Haskell?](http://neugierig.org/software/blog/2011/10/why-not-haskell.html)
+* [Haskell Is Beautifull In Practice](https://monkey.org/~marius/haskell-is-beautiful-in-practice.html)
 
 ## Learning Haskell
 * [Haskell Fast & Hard](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
@@ -143,6 +144,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
     
 ## Monads 
 
+## Arrows 
+* [Arrow](https://wiki.haskell.org/Arrow)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
