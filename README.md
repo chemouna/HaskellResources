@@ -207,6 +207,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Chris Done Blog](http://chrisdone.com/)
 * [Jasper Van der Jeugt Blog](https://jaspervdj.be/)
 * [Cabal Testing Summer Of Code](http://cabaltest.blogspot.com/)
+* [Jakub Arnold's Blog](http://blog.jakubarnold.cz/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
