@@ -148,7 +148,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
     
 ## Monads 
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
-
+* [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 
 ## Arrows 
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -160,6 +160,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Fudgets 
 * [Fudgets](http://www.altocumulus.org/Fudgets/)
 * [Related Papers](http://www.altocumulus.org/Fudgets/publications.html)
+
+## Category Theory
+* [Category: The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
 
 ## UI in Haskell 
 * [Phooey: Functional UI library for Haskell](https://wiki.haskell.org/Phooey)
