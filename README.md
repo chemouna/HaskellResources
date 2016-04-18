@@ -219,7 +219,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell Packages by category](http://hackage.haskell.org/packages)
 * [Haskell MVC: mvc library to distill concurrent programs into pure and single-threaded programs using the Model-View-Controller pattern](https://github.com/Gabriel439/Haskell-MVC-Library)
 * [Pipes: stream processing library that lets you build and connect reusable streaming components](https://github.com/Gabriel439/Haskell-Pipes-Library) 
-
+* [Folds: a playground full of comonadic folds](https://hackage.haskell.org/package/folds)
 
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
