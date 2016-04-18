@@ -106,14 +106,6 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Editors 
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
 
-## Librairies
-* [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
-* [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
-* [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
-* [Haxl](https://github.com/facebook/Haxl)
-* [Template Haskell](https://wiki.haskell.org/Template_Haskell)
-* [Haskell Packages by category](http://hackage.haskell.org/packages)
-
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
 
@@ -127,6 +119,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Code testing in Haskell](http://lambda.jstolarek.com/2012/10/code-testing-in-haskell/)
 * [The tasty-golden package](http://hackage.haskell.org/package/tasty-golden)
 * [Practical testing in Haskell](https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
+* [Hspec: A Testing Framework for Haskell](http://hspec.github.io/)
 
 ## Debugging 
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
@@ -216,6 +209,17 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Pack of resources and exercises for learning Haskell.](https://github.com/afonsomatos/haskell)
 * [A collection of links for the new haskeller](https://github.com/a3gis/haskell-resources)
 * [Useful online resources to learn Haskell](https://blog.pusher.com/best-free-online-resources-to-learn-haskell/)
+
+## Librairies
+* [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
+* [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
+* [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
+* [Haxl](https://github.com/facebook/Haxl)
+* [Template Haskell](https://wiki.haskell.org/Template_Haskell)
+* [Haskell Packages by category](http://hackage.haskell.org/packages)
+* [Haskell MVC: mvc library to distill concurrent programs into pure and single-threaded programs using the Model-View-Controller pattern](https://github.com/Gabriel439/Haskell-MVC-Library)
+* [Pipes: stream processing library that lets you build and connect reusable streaming components](https://github.com/Gabriel439/Haskell-Pipes-Library) 
+
 
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
