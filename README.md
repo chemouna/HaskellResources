@@ -185,7 +185,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Blogs
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
-* [Andrew Gibiansky   ::   Math → Code](http://andrew.gibiansky.com/)
+* [Andrew Gibiansky :: Math → Code](http://andrew.gibiansky.com/)
 * [Mark Needham Blog](http://www.markhneedham.com/blog/)
 * [λ Tony's blog λ](http://blog.tmorris.net/)
 * [Neil Mitchell's Haskell Blog](http://neilmitchell.blogspot.fr/)
@@ -201,6 +201,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Jasper Van der Jeugt Blog](https://jaspervdj.be/)
 * [Cabal Testing Summer Of Code](http://cabaltest.blogspot.com/)
 * [Jakub Arnold's Blog](http://blog.jakubarnold.cz/)
+* [The Most Fun You Have Blog](http://squing.blogspot.fr/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
@@ -220,6 +221,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell MVC: mvc library to distill concurrent programs into pure and single-threaded programs using the Model-View-Controller pattern](https://github.com/Gabriel439/Haskell-MVC-Library)
 * [Pipes: stream processing library that lets you build and connect reusable streaming components](https://github.com/Gabriel439/Haskell-Pipes-Library) 
 * [Folds: a playground full of comonadic folds](https://hackage.haskell.org/package/folds)
+* [Mono-Traversable](https://hackage.haskell.org/package/mono-traversable), [on github](https://github.com/snoyberg/mono-traversable)
+* [Conduit](https://hackage.haskell.org/package/conduit), [on github](https://github.com/snoyberg/conduit)
+* [Warp HTTP Server](http://www.aosabook.org/en/posa/warp.html)
 
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
@@ -227,5 +231,5 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Collections
 * [planet haskell](http://planet.haskell.org/)
 * [Lambda the Ultimate](http://lambda-the-ultimate.org/)
-
+* [The Monad.Reader](https://themonadreader.wordpress.com/)
 
