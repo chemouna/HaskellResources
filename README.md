@@ -93,7 +93,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
 * [Accumulators in Haskell](http://blog.openendings.net/2014/08/accumulators-in-haskell.html)
 
-## Interesting Blog Posts 
+## Interesting Blog Posts
 *  [How to desugar Haskell code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 
 ## Tools
@@ -106,7 +106,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Hayoo! - Haskell API Search](http://hayoo.fh-wedel.de/)
 * [Hlint](https://github.com/ndmitchell/hlint#readme)
 
-## Editors 
+## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
 
 ## Concurrency
@@ -124,10 +124,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Practical testing in Haskell](https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
 * [Hspec: A Testing Framework for Haskell](http://hspec.github.io/)
 
-## Debugging 
+## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
 
-## GHC Base 
+## GHC Base
 * [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
 * [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 * [Data.Function](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Function.html)
@@ -135,38 +135,38 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
 
-## Foldable 
+## Foldable
 * [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
 
-## Monoids 
+## Monoids
 * [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Data.Monoid](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Monoid.html)
 
-    
-## Monads 
+
+## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 
-## Arrows 
+## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
 * [Arrows: A General Interface to Computation](https://www.haskell.org/arrows/biblio.html)
 * [arrows: Arrow classes and transformers package](http://hackage.haskell.org/package/arrows)
 * [When to use Arrows over Monads](http://caml.inria.fr/pub/ml-archives/caml-list/2000/08/3c42f0fad3b3ecaca4f6043af65f6315.en.html)
 * [Some papers related to Arrows](http://www.staff.city.ac.uk/~ross/)
 
-## Fudgets 
+## Fudgets
 * [Fudgets](http://www.altocumulus.org/Fudgets/)
 * [Related Papers](http://www.altocumulus.org/Fudgets/publications.html)
 
 ## Category Theory
 * [Category: The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
 
-## UI in Haskell 
+## UI in Haskell
 * [Phooey: Functional UI library for Haskell](https://wiki.haskell.org/Phooey)
 * [Tangible Value - TV : a library for composing tangible values](https://wiki.haskell.org/TV)
 
-## FRP 
+## FRP
 * [Grapefruit: Library for Functional Reactive Programming ](https://wiki.haskell.org/Grapefruit)
 * [Grapefruit/Comparison to other FRP libraries](https://wiki.haskell.org/Grapefruit/Comparison_to_other_FRP_libraries)
 * [Reactive](https://wiki.haskell.org/Reactive)
@@ -222,14 +222,15 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Template Haskell](https://wiki.haskell.org/Template_Haskell)
 * [Haskell Packages by category](http://hackage.haskell.org/packages)
 * [Haskell MVC: mvc library to distill concurrent programs into pure and single-threaded programs using the Model-View-Controller pattern](https://github.com/Gabriel439/Haskell-MVC-Library)
-* [Pipes: stream processing library that lets you build and connect reusable streaming components](https://github.com/Gabriel439/Haskell-Pipes-Library) 
+* [Pipes: stream processing library that lets you build and connect reusable streaming components](https://github.com/Gabriel439/Haskell-Pipes-Library)
 * [Folds: a playground full of comonadic folds](https://hackage.haskell.org/package/folds)
 * [Mono-Traversable](https://hackage.haskell.org/package/mono-traversable), [on github](https://github.com/snoyberg/mono-traversable)
 * [Conduit](https://hackage.haskell.org/package/conduit), [on github](https://github.com/snoyberg/conduit)
 * [Warp HTTP Server](http://www.aosabook.org/en/posa/warp.html)
 * [pipes-group: ses FreeT and lenses to group streams into sub-streams](https://hackage.haskell.org/package/pipes-group)
 * [Lens](https://hackage.haskell.org/package/lens), [on github](https://hackage.haskell.org/package/lens)
-
+* [Haskell-Annah-Library: Distributed programming language that desugars to Morte ](https://github.com/Gabriel439/Haskell-Annah-Library)
+* [A bare-bones calculus-of-constructions](https://github.com/Gabriel439/Haskell-Morte-Library)
 
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
@@ -238,4 +239,3 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [planet haskell](http://planet.haskell.org/)
 * [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 * [The Monad.Reader](https://themonadreader.wordpress.com/)
-
