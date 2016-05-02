@@ -11,6 +11,8 @@
 ## Learning Haskell
 * [Haskell Fast & Hard](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
 * [School of Haskell](https://www.schoolofhaskell.com/)
+* [Happy Learn Haskell Tutorial: Book](http://happylearnhaskelltutorial.com)
+* [Happy Learn Haskell Tutorial: Video Intro](https://www.youtube.com/watch?v=8dPTG_bxvSI&list=PL9vLihThaTvQ_6AkEewgymuzf9sMMIhQd)
 * [Learn You a Haskell: Starting Out](http://learnyouahaskell.com/starting-out#babys-first-functions)
 * [Learn You a Haskell: Types and Typeclasses](http://learnyouahaskell.com/types-and-typeclasses)
 * [Learn You a Haskell: Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions)
