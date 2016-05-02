@@ -167,6 +167,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Tangible Value - TV : a library for composing tangible values](https://wiki.haskell.org/TV)
 
 ## FRP
+* [Reflex: Higher-order Functional Reactive Programming](https://hackage.haskell.org/package/reflex)
 * [Grapefruit: Library for Functional Reactive Programming ](https://wiki.haskell.org/Grapefruit)
 * [Grapefruit/Comparison to other FRP libraries](https://wiki.haskell.org/Grapefruit/Comparison_to_other_FRP_libraries)
 * [Reactive](https://wiki.haskell.org/Reactive)
