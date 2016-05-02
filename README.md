@@ -214,7 +214,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [A collection of links for the new haskeller](https://github.com/a3gis/haskell-resources)
 * [Useful online resources to learn Haskell](https://blog.pusher.com/best-free-online-resources-to-learn-haskell/)
 
-## Librairies
+## Libraries
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
 * [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
 * [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
