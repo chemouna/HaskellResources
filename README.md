@@ -64,7 +64,6 @@
 * [Recursion patterns, polymorphism, and the Prelude](http://www.seas.upenn.edu/~cis194/spring13/lectures/03-rec-poly.html)
 * [Dependent type](https://wiki.haskell.org/Dependent_type)
 
-
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
 * [Modules And Some Haskell Examples](http://learnyouahaskell.com/modules)
