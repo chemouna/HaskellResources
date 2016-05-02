@@ -127,10 +127,11 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
 
-## GHC Base
+## Basic Libraries 
 * [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
 * [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 * [Data.Function](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Function.html)
+* [Data.Data](http://hackage.haskell.org/package/base-4.6.0.1/docs/Data-Data.html)
 
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
