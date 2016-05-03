@@ -230,7 +230,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Conduit](https://hackage.haskell.org/package/conduit), [on github](https://github.com/snoyberg/conduit)
 * [Warp HTTP Server](http://www.aosabook.org/en/posa/warp.html)
 * [pipes-group: ses FreeT and lenses to group streams into sub-streams](https://hackage.haskell.org/package/pipes-group)
-* [Lens](https://hackage.haskell.org/package/lens), [on github](https://hackage.haskell.org/package/lens)
+* [Lens](https://hackage.haskell.org/package/lens), [on github](https://github.com/ekmett/lens)
 * [Haskell-Annah-Library: Distributed programming language that desugars to Morte ](https://github.com/Gabriel439/Haskell-Annah-Library)
 * [A bare-bones calculus-of-constructions](https://github.com/Gabriel439/Haskell-Morte-Library)
 
