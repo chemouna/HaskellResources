@@ -206,6 +206,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Cabal Testing Summer Of Code](http://cabaltest.blogspot.com/)
 * [Jakub Arnold's Blog](http://blog.jakubarnold.cz/)
 * [The Most Fun You Have Blog](http://squing.blogspot.fr/)
+* [Danny Navarro's Blog](http://dannynavarro.net/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
