@@ -1,4 +1,8 @@
 # Haskell Resources
+Compilation of useful resources i've user to learn Haskell
+
+[WIP] I will keep updating as i find new resources (My only rule is to understand the resource before putting it here).
+
 
 ## Haskell
 
@@ -186,6 +190,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell Cheat sheet](http://blog.codeslower.com/static/CheatSheet.pdf)
 * [Haskell Cheat sheet #2](http://www.cheat-sheets.org/saved-copy/Haskell.Haskell_Cheat_Sheet.pdf)
 * [Dartmouth Haskell Cheat sheet](http://www.cs.dartmouth.edu/~cs8/F2011/handouts/CheatSheet.pdf)
+
+## Haskell Code style
+* [Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md#imports)
+
 
 ## Blogs
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
