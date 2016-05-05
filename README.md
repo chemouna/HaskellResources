@@ -117,6 +117,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Web developement
 * [Yesod](http://www.yesodweb.com/).
+* [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
+* [Demo of the Heroku Haskell Buildpack](https://github.com/puffnfresh/haskell-buildpack-demo)
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
@@ -126,6 +128,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [The tasty-golden package](http://hackage.haskell.org/package/tasty-golden)
 * [Practical testing in Haskell](https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
 * [Hspec: A Testing Framework for Haskell](http://hspec.github.io/)
+* [crosscheck: Using QuickCheck to test functions in other languages/environments](https://github.com/puffnfresh/crosscheck)
+
 
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
