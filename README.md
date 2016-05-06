@@ -97,7 +97,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Accumulators in Haskell](http://blog.openendings.net/2014/08/accumulators-in-haskell.html)
 
 ## Interesting Blog Posts
-*  [How to desugar Haskell code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
+* [How to desugar Haskell code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 
 ## Tools
 * [Hoogle: Haskell API search engine](https://www.haskell.org/hoogle/)
@@ -150,7 +150,6 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Data.Monoid](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Monoid.html)
-
 
 ## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
