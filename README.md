@@ -232,6 +232,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Jakub Arnold's Blog](http://blog.jakubarnold.cz/)
 * [The Most Fun You Have Blog](http://squing.blogspot.fr/)
 * [Danny Navarro's Blog](http://dannynavarro.net/)
+* [The Comonad.Reader](http://comonad.com/reader/)
+* [CPS is great! CPS is terrible!](http://www.serpentine.com/blog/2011/02/25/cps-is-great-cps-is-terrible/)
+* [Bryan O'Sullivan's Blog](http://www.serpentine.com/blog/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
