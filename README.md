@@ -11,6 +11,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Hello Haskell, Goodbye Lisp](http://newartisans.com/2009/03/hello-haskell-goodbye-lisp/)
 * [Why not Haskell?](http://neugierig.org/software/blog/2011/10/why-not-haskell.html)
 * [Haskell Is Beautifull In Practice](https://monkey.org/~marius/haskell-is-beautiful-in-practice.html)
+* [First thoughts on Haskell](http://sdegutis.github.io/2015-02-10/haskell/)
 
 ## Learning Haskell
 * [Haskell Fast & Hard](https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard)
@@ -115,10 +116,20 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
 
-## Web developement
+## Web developement libraries
 * [Yesod](http://www.yesodweb.com/).
+* [Wai: Haskell Web Application Interface](https://github.com/yesodweb/wai)
+* [Scotty](https://github.com/scotty-web/scotty)
+* [Wai middlewares](http://hackage.haskell.org/packages/search?terms=wai)
+* [Snap Framework](http://snapframework.com/)
+* [Snap Framework Code on github](https://github.com/snapframework)
+* [Lucid: read and edit DSL for writing HTML](https://github.com/chrisdone/lucid)
+
+## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
 * [Demo of the Heroku Haskell Buildpack](https://github.com/puffnfresh/haskell-buildpack-demo)
+* [24 Days of Hackage: scotty](https://ocharles.org.uk/blog/posts/2013-12-05-24-days-of-hackage-scotty.html)
+* [24 Days of Hackage: snap](https://ocharles.org.uk/blog/posts/2012-12-19-24-days-of-hackage-snap.html)
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
