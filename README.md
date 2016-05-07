@@ -192,6 +192,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Functional Reactive Animation](http://conal.net/Fran/)
 * [Simply efficient functional reactivity](http://conal.net/papers/simply-reactive/)
 
+## Continuation Passing Style 
+* [Haskell/Continuation passing style](https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
+
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
 
