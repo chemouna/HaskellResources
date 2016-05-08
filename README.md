@@ -165,6 +165,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
+* [The State Monad: A Tutorial for the Confused?](http://brandon.si/code/the-state-monad-a-tutorial-for-the-confused/)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -236,6 +237,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [The Comonad.Reader](http://comonad.com/reader/)
 * [CPS is great! CPS is terrible!](http://www.serpentine.com/blog/2011/02/25/cps-is-great-cps-is-terrible/)
 * [Bryan O'Sullivan's Blog](http://www.serpentine.com/blog/)
+* [Brandon.Si(mmons)](http://brandon.si/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
