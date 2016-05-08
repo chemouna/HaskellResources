@@ -62,7 +62,7 @@ Compilation of useful resources i've user to learn Haskell
 * [OOP vs type classes](https://wiki.haskell.org/OOP_vs_type_classes)
 * [data, type, newtype, instance, class](http://joelburget.com/data-newtype-instance-class/)
 * [Newtype](https://wiki.haskell.org/Newtype)
-
+* [data, type, newtype, instance, class](http://joelburget.com/data-newtype-instance-class/)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
