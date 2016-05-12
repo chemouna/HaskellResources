@@ -109,6 +109,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Using Emacs for Haskell development](https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md)
 * [Hayoo! - Haskell API Search](http://hayoo.fh-wedel.de/)
 * [Hlint](https://github.com/ndmitchell/hlint#readme)
+* [Shake](https://github.com/ndmitchell/shake)
 
 ## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
