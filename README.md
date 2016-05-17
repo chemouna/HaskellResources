@@ -64,7 +64,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Newtype](https://wiki.haskell.org/Newtype)
 * [data, type, newtype, instance, class](http://joelburget.com/data-newtype-instance-class/)
 * [Dependent type](https://wiki.haskell.org/Dependent_type)
-* 
+
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 * [Recursion patterns, polymorphism, and the Prelude](http://www.seas.upenn.edu/~cis194/spring13/lectures/03-rec-poly.html)
@@ -162,6 +162,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Data.Monoid](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Monoid.html)
+* [Monoid: Haskell: Using monoids when sorting by multiple parameters](http://www.markhneedham.com/blog/2012/05/23/haskell-using-monoids-when-sorting-by-multiple-parameters/)
+
 
 ## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
