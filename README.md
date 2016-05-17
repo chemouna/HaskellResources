@@ -63,11 +63,11 @@ Compilation of useful resources i've user to learn Haskell
 * [data, type, newtype, instance, class](http://joelburget.com/data-newtype-instance-class/)
 * [Newtype](https://wiki.haskell.org/Newtype)
 * [data, type, newtype, instance, class](http://joelburget.com/data-newtype-instance-class/)
-
+* [Dependent type](https://wiki.haskell.org/Dependent_type)
+* 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 * [Recursion patterns, polymorphism, and the Prelude](http://www.seas.upenn.edu/~cis194/spring13/lectures/03-rec-poly.html)
-* [Dependent type](https://wiki.haskell.org/Dependent_type)
 
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
