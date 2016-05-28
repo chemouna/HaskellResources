@@ -141,7 +141,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Practical testing in Haskell](https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
 * [Hspec: A Testing Framework for Haskell](http://hspec.github.io/)
 * [crosscheck: Using QuickCheck to test functions in other languages/environments](https://github.com/puffnfresh/crosscheck)
-
+* [haskell-hspec-setup: Add a hspec test-suite in one command](https://github.com/yamadapc/haskell-hspec-setup)
+* [HUnit: A unit testing framework for Haskell](https://github.com/hspec/HUnit)
 
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
