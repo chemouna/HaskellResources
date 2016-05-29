@@ -147,6 +147,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [hpc: Haskell program coverage](https://wiki.haskell.org/Haskell_program_coverage)
 * [QuickCheck Manual](http://www.cse.chalmers.se/~rjmh/QuickCheck/manual.html)
 * [Tasty](http://documentup.com/feuerbach/tasty)
+* [SmallCheck](https://github.com/feuerbach/smallcheck)
 
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
