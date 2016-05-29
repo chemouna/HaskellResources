@@ -145,6 +145,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [HUnit: A unit testing framework for Haskell](https://github.com/hspec/HUnit)
 * [doctest: An implementation of Python's doctest for Haskell](https://github.com/sol/doctest)
 * [hpc: Haskell program coverage](https://wiki.haskell.org/Haskell_program_coverage)
+* [QuickCheck Manual](http://www.cse.chalmers.se/~rjmh/QuickCheck/manual.html)
 
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
