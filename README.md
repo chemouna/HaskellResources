@@ -222,7 +222,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Haskell Code style
 * [Haskell Style Guide](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md#imports)
 * [Declaration vs Expression Style](https://wiki.haskell.org/Declaration_vs._expression_style)
-
+* [hindent](https://github.com/chrisdone/hindent)
 
 ## Blogs
 * [Getting Values Out of Monads](http://chris-taylor.github.io/)
