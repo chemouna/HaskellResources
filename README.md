@@ -157,6 +157,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Either and (,) in Haskell are not arbitrary](http://bitemyapp.com/posts/2015-10-19-either-is-not-arbitrary.html)
 * [Data.Function](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Function.html)
 * [Data.Data](http://hackage.haskell.org/package/base-4.6.0.1/docs/Data-Data.html)
+* [Split: Combinator library for splitting lists](https://hackage.haskell.org/package/split-0.1.1)
 
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
