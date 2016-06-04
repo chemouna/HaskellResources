@@ -213,6 +213,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [parsec](https://github.com/aslatter/parsec)
 * [attoparsec](https://github.com/bos/attoparsec)
 * [Attoparsec or Parsec in Haskell](http://stackoverflow.com/questions/19208231/attoparsec-or-parsec-in-haskell/19213247#19213247)
+* [An Introduction to the Parsec Library](https://kunigami.wordpress.com/2014/01/21/an-introduction-to-the-parsec-library/)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
