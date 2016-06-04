@@ -209,6 +209,11 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Continuation Passing Style 
 * [Haskell/Continuation passing style](https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 
+## Parser 
+* [parsec](https://github.com/aslatter/parsec)
+* [attoparsec](https://github.com/bos/attoparsec)
+* [Attoparsec or Parsec in Haskell](http://stackoverflow.com/questions/19208231/attoparsec-or-parsec-in-haskell/19213247#19213247)
+
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
 
