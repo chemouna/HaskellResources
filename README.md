@@ -153,6 +153,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
+* [Understanding Basic Haskell Error Messages](http://ics.p.lodz.pl/~stolarek/_media/pl:research:stolarek_understanding_basic_haskell_error_messages.pdf)
 
 ## Basic Libraries 
 * [Data.Either](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Either.html#v:Right)
