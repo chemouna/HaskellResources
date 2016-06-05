@@ -112,9 +112,13 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Hayoo! - Haskell API Search](http://hayoo.fh-wedel.de/)
 * [Hlint](https://github.com/ndmitchell/hlint#readme)
 * [Shake](https://github.com/ndmitchell/shake)
+* [Haskell is easy: Reference for best libraries to use](http://haskelliseasy.readthedocs.io/en/latest/)
 
 ## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
+
+## Database 
+* [Persistent](http://www.yesodweb.com/book/persistent)
 
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
@@ -257,6 +261,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [CPS is great! CPS is terrible!](http://www.serpentine.com/blog/2011/02/25/cps-is-great-cps-is-terrible/)
 * [Bryan O'Sullivan's Blog](http://www.serpentine.com/blog/)
 * [Brandon.Si(mmons)](http://brandon.si/)
+* [NP-Incompleteness Blog posts by Guilherme Kunigami on Haskell](https://kunigami.wordpress.com/category/programming/haskell/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
