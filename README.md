@@ -183,6 +183,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 * [The State Monad: A Tutorial for the Confused?](http://brandon.si/code/the-state-monad-a-tutorial-for-the-confused/)
+* [transformers package](https://hackage.haskell.org/package/transformers)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
