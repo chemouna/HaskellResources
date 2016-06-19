@@ -33,6 +33,7 @@ Compilation of useful resources i've user to learn Haskell
 * [10 things I learnt diving in the functional programming deep end – with Haskell](https://blog.pusher.com/10-things-i-learnt-diving-in-the-functional-programming-deep-end-with-haskell/)
 * [How to learn Haskell](http://dmi3s.blogspot.com/2012/07/how-to-learn-haskell.html)
 * [On Haskell, Intuition And Expressive Power](http://www.defmacro.org/ramblings/haskell-productivity.html)
+* [Four months with Haskell](http://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
