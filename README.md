@@ -178,7 +178,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
 * [Data.Monoid](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Monoid.html)
 * [Monoid: Haskell: Using monoids when sorting by multiple parameters](http://www.markhneedham.com/blog/2012/05/23/haskell-using-monoids-when-sorting-by-multiple-parameters/)
-
+* [Understanding Free Monoids and Universal Constructions](https://bartoszmilewski.com/2013/12/21/understanding-free-monoids-and-universal-constructions/)
 
 ## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
@@ -221,6 +221,11 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Attoparsec or Parsec in Haskell](http://stackoverflow.com/questions/19208231/attoparsec-or-parsec-in-haskell/19213247#19213247)
 * [An Introduction to the Parsec Library](https://kunigami.wordpress.com/2014/01/21/an-introduction-to-the-parsec-library/)
 * [Parsec, a fast combinator parser](http://research.microsoft.com/en-us/um/people/daan/download/parsec/parsec-letter.pdf)
+
+## Exception Handling and Error Reporting
+* [Haskell Wiki on Exception](https://wiki.haskell.org/Exception)
+* [8 ways to report errors in Haskell](http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/)
+
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
