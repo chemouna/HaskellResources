@@ -132,13 +132,15 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Snap Framework](http://snapframework.com/)
 * [Snap Framework Code on github](https://github.com/snapframework)
 * [Lucid: read and edit DSL for writing HTML](https://github.com/chrisdone/lucid)
-* [Heist](http://hackage.haskell.org/package/heist)
+* [Heist](hackage.haskell.org/package/heist)
 
 ## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
 * [Demo of the Heroku Haskell Buildpack](https://github.com/puffnfresh/haskell-buildpack-demo)
 * [24 Days of Hackage: scotty](https://ocharles.org.uk/blog/posts/2013-12-05-24-days-of-hackage-scotty.html)
 * [24 Days of Hackage: snap](https://ocharles.org.uk/blog/posts/2012-12-19-24-days-of-hackage-snap.html)
+* [A REST API with Haskell and Snap](https://robots.thoughtbot.com/a-rest-api-with-haskell-and-snap)
+* [A Quick Into to Snap](http://bonus500.github.io/sc2blog/#title-slide)
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
