@@ -300,10 +300,11 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell-Annah-Library: Distributed programming language that desugars to Morte ](https://github.com/Gabriel439/Haskell-Annah-Library)
 * [A bare-bones calculus-of-constructions](https://github.com/Gabriel439/Haskell-Morte-Library)
 
-## Open source code to read : 
+## Open source code to read 
 * [Ross Paterson code](http://hub.darcs.net/ross)
 * [Brent Yorgey repos](http://hub.darcs.net/byorgey)
-* 
+
+
 ## Books
 * [List of Haskell Books](https://wiki.haskell.org/Books)
 
