@@ -133,6 +133,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Snap Framework Code on github](https://github.com/snapframework)
 * [Lucid: read and edit DSL for writing HTML](https://github.com/chrisdone/lucid)
 * [Heist](hackage.haskell.org/package/heist)
+* [Hedis](https://hackage.haskell.org/package/hedis)
 
 ## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
