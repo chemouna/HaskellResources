@@ -136,6 +136,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Hedis](https://hackage.haskell.org/package/hedis)
 * [digestive-functors](https://hackage.haskell.org/package/digestive-functors)
 * [formlets: The essence of form abstraction](http://groups.inf.ed.ac.uk/links/formlets/)
+* [web-routes](https://hackage.haskell.org/package/web-routes)
 
 ## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
@@ -144,7 +145,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [24 Days of Hackage: snap](https://ocharles.org.uk/blog/posts/2012-12-19-24-days-of-hackage-snap.html)
 * [A REST API with Haskell and Snap](https://robots.thoughtbot.com/a-rest-api-with-haskell-and-snap)
 * [A Quick Into to Snap](http://bonus500.github.io/sc2blog/#title-slide)
-* [The Web Problem, and solving it in Haskell](http://research.operationaldynamics.com/~andrew/talks/TheWebProblem,SolvingItInHaskell/TheWebProblem.html#start)
+* [The Web Problem, and solving it in Haskell](http://research.operationaldynamics.com/~andrew/talks/TheWebProblem,SolvingItInHaskell/TheWebProblem.html#start)p
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
@@ -194,6 +195,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [The State Monad: A Tutorial for the Confused?](http://brandon.si/code/the-state-monad-a-tutorial-for-the-confused/)
 * [transformers package](https://hackage.haskell.org/package/transformers)
 * [mtl: Monad transformers library](https://hackage.haskell.org/package/mtl)
+* [Transformers package](https://hackage.haskell.org/package/transformers)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
