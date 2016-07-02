@@ -134,6 +134,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Lucid: read and edit DSL for writing HTML](https://github.com/chrisdone/lucid)
 * [Heist](hackage.haskell.org/package/heist)
 * [Hedis](https://hackage.haskell.org/package/hedis)
+* [digestive-functors](https://hackage.haskell.org/package/digestive-functors)
+* [formlets: The essence of form abstraction](http://groups.inf.ed.ac.uk/links/formlets/)
+
 
 ## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
