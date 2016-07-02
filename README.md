@@ -130,13 +130,12 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Scotty](https://github.com/scotty-web/scotty)
 * [Wai middlewares](http://hackage.haskell.org/packages/search?terms=wai)
 * [Snap Framework](http://snapframework.com/)
-* [Snap Framework Code on github](https://github.com/snapframework)
+* [snap-blaze: blaze-html integration for Snap](https://hackage.haskell.org/package/snap-blaze)
 * [Lucid: read and edit DSL for writing HTML](https://github.com/chrisdone/lucid)
 * [Heist](hackage.haskell.org/package/heist)
 * [Hedis](https://hackage.haskell.org/package/hedis)
 * [digestive-functors](https://hackage.haskell.org/package/digestive-functors)
 * [formlets: The essence of form abstraction](http://groups.inf.ed.ac.uk/links/formlets/)
-
 
 ## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
@@ -193,6 +192,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 * [The State Monad: A Tutorial for the Confused?](http://brandon.si/code/the-state-monad-a-tutorial-for-the-confused/)
 * [transformers package](https://hackage.haskell.org/package/transformers)
+* [mtl: Monad transformers library](https://hackage.haskell.org/package/mtl)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
