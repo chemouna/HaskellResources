@@ -114,6 +114,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Hlint](https://github.com/ndmitchell/hlint#readme)
 * [Shake](https://github.com/ndmitchell/shake)
 * [Haskell is easy: Reference for best libraries to use](http://haskelliseasy.readthedocs.io/en/latest/)
+* [Codex: A ctags file generator for cabal/stack project dependencies](https://github.com/aloiscochard/codex)
 
 ## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
@@ -196,6 +197,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [transformers package](https://hackage.haskell.org/package/transformers)
 * [mtl: Monad transformers library](https://hackage.haskell.org/package/mtl)
 * [Transformers package](https://hackage.haskell.org/package/transformers)
+* [Tardis package](http://hackage.haskell.org/package/tardis)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -237,9 +239,12 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell Wiki on Exception](https://wiki.haskell.org/Exception)
 * [8 ways to report errors in Haskell](http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/)
 
+## Parallelism
+* [Repa:  high performance, regular, multi-dimensional, shape polymorphic parallel arrays](http://hackage.haskell.org/package/repa-3.2.3.3)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
+* [game-of-life in Haskell](https://github.com/AndrewRademacher/game-of-life)
 
 ## Projects
 * [Yi: The Haskell-Scriptable Editor](https://github.com/yi-editor/yi).
