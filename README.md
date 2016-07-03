@@ -121,6 +121,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Database 
 * [Persistent](http://www.yesodweb.com/book/persistent)
+* [postgresql-simple: Mid-Level PostgreSQL client library](https://hackage.haskell.org/package/postgresql-simple)
 
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
@@ -138,6 +139,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [digestive-functors](https://hackage.haskell.org/package/digestive-functors)
 * [formlets: The essence of form abstraction](http://groups.inf.ed.ac.uk/links/formlets/)
 * [web-routes](https://hackage.haskell.org/package/web-routes)
+* [restful-snap package](https://hackage.haskell.org/package/restful-snap)
 
 ## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
