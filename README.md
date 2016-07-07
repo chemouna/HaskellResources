@@ -122,6 +122,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Database 
 * [Persistent](http://www.yesodweb.com/book/persistent)
 * [postgresql-simple: Mid-Level PostgreSQL client library](https://hackage.haskell.org/package/postgresql-simple)
+* [groundhog package](https://hackage.haskell.org/package/groundhog)
 
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
@@ -140,6 +141,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [formlets: The essence of form abstraction](http://groups.inf.ed.ac.uk/links/formlets/)
 * [web-routes](https://hackage.haskell.org/package/web-routes)
 * [restful-snap package](https://hackage.haskell.org/package/restful-snap)
+* [snap-extras package](https://hackage.haskell.org/package/snap-extras)
+
 
 ## Web developement learning
 * [Haskell Buildpack for Heroku](https://brianmckenna.org/blog/haskell_buildpack_heroku)
@@ -200,6 +203,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [mtl: Monad transformers library](https://hackage.haskell.org/package/mtl)
 * [Transformers package](https://hackage.haskell.org/package/transformers)
 * [Tardis package](http://hackage.haskell.org/package/tardis)
+* [monad-logger package](https://hackage.haskell.org/package/monad-logger)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -243,6 +247,15 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Parallelism
 * [Repa:  high performance, regular, multi-dimensional, shape polymorphic parallel arrays](http://hackage.haskell.org/package/repa-3.2.3.3)
+
+## Configuration
+* [Data.Configurator: for working with configuration files](https://hackage.haskell.org/package/configurator-0.3.0.0/docs/Data-Configurator.html)
+gs
+
+## DSLs 
+* [Quasiquotation](https://wiki.haskell.org/Quasiquotation)
+* [shakespeare-text package](http://hackage.haskell.org/package/shakespeare-text)
+* [dump: Dumps the names and values of expressions to ease debugging](https://github.com/Wizek/dump)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
@@ -327,3 +340,6 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [planet haskell](http://planet.haskell.org/)
 * [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 * [The Monad.Reader](https://themonadreader.wordpress.com/)
+
+## Fun 
+* [The Evolution of a Haskell Programmer](http://www.cs.utexas.edu/~cannata/cs345/Class%20Notes/10%20Haskell%20Programmer%20Evolution.html)
