@@ -115,6 +115,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Shake](https://github.com/ndmitchell/shake)
 * [Haskell is easy: Reference for best libraries to use](http://haskelliseasy.readthedocs.io/en/latest/)
 * [Codex: A ctags file generator for cabal/stack project dependencies](https://github.com/aloiscochard/codex)
+* [Blunt: converts Haskell expressions between the pointfree and pointful styles](https://blunt.herokuapp.com/)
+* [Pointfree package](http://hackage.haskell.org/package/pointfree)
+* [pointful package](http://hackage.haskell.org/package/pointful)
+
 
 ## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
