@@ -190,6 +190,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
+* [Haskell Applicative Functors Explained Without Words](https://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
 
 ## Foldable
 * [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
