@@ -67,6 +67,8 @@ Compilation of useful resources i've user to learn Haskell
 * [Newtype](https://wiki.haskell.org/Newtype)
 * [data, type, newtype, instance, class](http://joelburget.com/data-newtype-instance-class/)
 * [Dependent type](https://wiki.haskell.org/Dependent_type)
+* [Smart constructors](https://wiki.haskell.org/Smart_constructors)
+* [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
@@ -305,6 +307,7 @@ gs
 * [Bryan O'Sullivan's Blog](http://www.serpentine.com/blog/)
 * [Brandon.Si(mmons)](http://brandon.si/)
 * [NP-Incompleteness Blog posts by Guilherme Kunigami on Haskell](https://kunigami.wordpress.com/category/programming/haskell/)
+* [Brent Yorgey's Blog](https://byorgey.wordpress.com/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
