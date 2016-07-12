@@ -226,6 +226,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Category Theory
 * [Category: The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
+* [Haskell controvariant package](https://hackage.haskell.org/package/contravariant)
 
 ## UI in Haskell
 * [Phooey: Functional UI library for Haskell](https://wiki.haskell.org/Phooey)
