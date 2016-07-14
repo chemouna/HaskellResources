@@ -227,6 +227,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Category Theory
 * [Category: The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
 * [Haskell controvariant package](https://hackage.haskell.org/package/contravariant)
+* [data-category package](https://hackage.haskell.org/package/data-category)
+
+## Dependent Types
+* [The singletons package](https://hackage.haskell.org/package/singletons)
 
 ## UI in Haskell
 * [Phooey: Functional UI library for Haskell](https://wiki.haskell.org/Phooey)
@@ -311,6 +315,7 @@ gs
 * [Brandon.Si(mmons)](http://brandon.si/)
 * [NP-Incompleteness Blog posts by Guilherme Kunigami on Haskell](https://kunigami.wordpress.com/category/programming/haskell/)
 * [Brent Yorgey's Blog](https://byorgey.wordpress.com/)
+* [Jaguarpaw Blog](http://web.jaguarpaw.co.uk/~tom/blog/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
