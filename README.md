@@ -202,6 +202,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Data.Monoid](https://hackage.haskell.org/package/base-4.8.2.0/docs/Data-Monoid.html)
 * [Monoid: Haskell: Using monoids when sorting by multiple parameters](http://www.markhneedham.com/blog/2012/05/23/haskell-using-monoids-when-sorting-by-multiple-parameters/)
 * [Understanding Free Monoids and Universal Constructions](https://bartoszmilewski.com/2013/12/21/understanding-free-monoids-and-universal-constructions/)
+* [Monoid](https://wiki.haskell.org/Monoid)
 
 ## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
@@ -229,6 +230,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell controvariant package](https://hackage.haskell.org/package/contravariant)
 * [data-category package](https://hackage.haskell.org/package/data-category)
 * [Catamorphism package](https://hackage.haskell.org/package/catamorphism-0.5.1.0)
+* [The mmorph package](https://hackage.haskell.org/package/mmorph)
+* [Category theory](https://wiki.haskell.org/Category_theory)
+* [Category theory/Functor](https://wiki.haskell.org/Category_theory/Functor)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
