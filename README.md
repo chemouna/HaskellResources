@@ -228,6 +228,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Category: The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
 * [Haskell controvariant package](https://hackage.haskell.org/package/contravariant)
 * [data-category package](https://hackage.haskell.org/package/data-category)
+* [Catamorphism package](https://hackage.haskell.org/package/catamorphism-0.5.1.0)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
