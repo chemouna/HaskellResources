@@ -213,6 +213,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Transformers package](https://hackage.haskell.org/package/transformers)
 * [Tardis package](http://hackage.haskell.org/package/tardis)
 * [monad-logger package](https://hackage.haskell.org/package/monad-logger)
+* [Control.Monad.Reader](https://hackage.haskell.org/package/mtl-2.2.1/docs/Control-Monad-Reader.html)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -233,6 +234,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [The mmorph package](https://hackage.haskell.org/package/mmorph)
 * [Category theory](https://wiki.haskell.org/Category_theory)
 * [Category theory/Functor](https://wiki.haskell.org/Category_theory/Functor)
+* [categories from category-extras](https://github.com/ekmett/categories)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
