@@ -218,6 +218,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Monad Transformers
 * [Grok Haskell Monad Transformers](http://blog.sigfpe.com/2006/05/grok-haskell-monad-transformers.html)
 * [Building Monad Transformers - Part 1](http://blog.jakubarnold.cz/2014/07/22/building-monad-transformers-part-1.html)
+* [Monad Transformers Tutorial](https://wiki.haskell.org/Monad_Transformers_Tutorial)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -239,6 +240,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Category theory](https://wiki.haskell.org/Category_theory)
 * [Category theory/Functor](https://wiki.haskell.org/Category_theory/Functor)
 * [categories from category-extras](https://github.com/ekmett/categories)
+* [adjunctions](https://github.com/ekmett/adjunctions/)
+
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
