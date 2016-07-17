@@ -236,6 +236,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Fudgets](http://www.altocumulus.org/Fudgets/)
 * [Related Papers](http://www.altocumulus.org/Fudgets/publications.html)
 
+## Lenses 
+* [Lens](http://lens.github.io/)
+* [Getting Started](http://lens.github.io/tutorial.html)
+
 ## Category Theory
 * [Category: The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
 * [Haskell controvariant package](https://hackage.haskell.org/package/contravariant)
