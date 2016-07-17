@@ -69,6 +69,8 @@ Compilation of useful resources i've user to learn Haskell
 * [Dependent type](https://wiki.haskell.org/Dependent_type)
 * [Smart constructors](https://wiki.haskell.org/Smart_constructors)
 * [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/)
+* [Haskell/Existentially quantified types](https://en.wikibooks.org/wiki/Haskell/Existentially_quantified_types)
+
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
@@ -101,6 +103,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Operators
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
 * [Accumulators in Haskell](http://blog.openendings.net/2014/08/accumulators-in-haskell.html)
+* [Haskell Pronunciation](https://wiki.haskell.org/Pronunciation)
 * [Pronounceable names for common Haskell operators](http://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 
 ## Interesting Blog Posts
