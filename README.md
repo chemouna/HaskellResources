@@ -101,6 +101,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Operators
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
 * [Accumulators in Haskell](http://blog.openendings.net/2014/08/accumulators-in-haskell.html)
+* [Pronounceable names for common Haskell operators](http://stackoverflow.com/questions/7746894/are-there-pronounceable-names-for-common-haskell-operators)
 
 ## Interesting Blog Posts
 * [How to desugar Haskell code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
