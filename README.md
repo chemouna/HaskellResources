@@ -240,6 +240,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Lens](http://lens.github.io/)
 * [Getting Started](http://lens.github.io/tutorial.html)
 * [Program imperatively using Haskell lenses](http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html)
+* [Haskell for all blog: Lenses](http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers_28.html)
 
 ## Category Theory
 * [Category: The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
