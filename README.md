@@ -221,6 +221,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Tardis package](http://hackage.haskell.org/package/tardis)
 * [monad-logger package](https://hackage.haskell.org/package/monad-logger)
 * [Control.Monad.Reader](https://hackage.haskell.org/package/mtl-2.2.1/docs/Control-Monad-Reader.html)
+* [Comonad](https://hackage.haskell.org/package/comonad-5)
 
 ## Monad Transformers
 * [Grok Haskell Monad Transformers](http://blog.sigfpe.com/2006/05/grok-haskell-monad-transformers.html)
