@@ -162,6 +162,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [A REST API with Haskell and Snap](https://robots.thoughtbot.com/a-rest-api-with-haskell-and-snap)
 * [A Quick Into to Snap](http://bonus500.github.io/sc2blog/#title-slide)
 * [The Web Problem, and solving it in Haskell](http://research.operationaldynamics.com/~andrew/talks/TheWebProblem,SolvingItInHaskell/TheWebProblem.html#start)p
+* [What are Snaplets ?](http://snapframework.com/docs/tutorials/snaplets-tutorial)
+* [Heist Templates](http://snapframework.com/docs/tutorials/heist)
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
