@@ -164,6 +164,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [The Web Problem, and solving it in Haskell](http://research.operationaldynamics.com/~andrew/talks/TheWebProblem,SolvingItInHaskell/TheWebProblem.html#start)p
 * [What are Snaplets ?](http://snapframework.com/docs/tutorials/snaplets-tutorial)
 * [Heist Templates](http://snapframework.com/docs/tutorials/heist)
+* [Compiled Heist: The Walkthrough](http://chromaticleaves.com/posts/compiled-heist-the-walkthrough.html)
+
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
