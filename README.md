@@ -49,7 +49,7 @@ Compilation of useful resources i've user to learn Haskell
 * [List comprehension](https://wiki.haskell.org/List_comprehension)
 * [Lists and tuples](https://en.wikibooks.org/wiki/Haskell/Lists_and_tuples)
 * [Higher-order list operations](http://matt.might.net/articles/higher-order-list-operations/)
-
+* [map-syntax package](https://hackage.haskell.org/package/map-syntax)
 
 ## Types
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
