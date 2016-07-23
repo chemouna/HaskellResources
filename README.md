@@ -125,6 +125,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Pointfree package](http://hackage.haskell.org/package/pointfree)
 * [pointful package](http://hackage.haskell.org/package/pointful)
 
+## Performance 
+* [Criterion](https://hackage.haskell.org/package/criterion)
+
 
 ## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
@@ -201,6 +204,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## String Types
 * [ByteString](https://hackage.haskell.org/package/bytestring-0.10.8.1)
 * [Haskell String Types](http://www.alexeyshmalko.com/2015/haskell-string-types/)
+* [The text package](http://hackage.haskell.org/package/text)
+* [utf8-string](https://hackage.haskell.org/package/utf8-string)
+* [ListLike package](http://hackage.haskell.org/package/ListLike)
 
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
