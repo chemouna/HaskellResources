@@ -197,6 +197,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Split: Combinator library for splitting lists](https://hackage.haskell.org/package/split-0.1.1)
 * [Text](https://hackage.haskell.org/package/text)
 * [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
+* [ByteString](https://hackage.haskell.org/package/bytestring-0.10.8.1)
+
 
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
