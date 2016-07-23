@@ -136,6 +136,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Persistent](http://www.yesodweb.com/book/persistent)
 * [postgresql-simple: Mid-Level PostgreSQL client library](https://hackage.haskell.org/package/postgresql-simple)
 * [groundhog package](https://hackage.haskell.org/package/groundhog)
+* [persistent package](https://hackage.haskell.org/package/persistent)
+* [Custom SQL queries in Groundhog](http://codinginfinity.me/post/2015-08-17/custom_sql_queries_in_groundhog)
 
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
