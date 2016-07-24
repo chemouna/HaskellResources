@@ -138,6 +138,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [groundhog package](https://hackage.haskell.org/package/groundhog)
 * [persistent package](https://hackage.haskell.org/package/persistent)
 * [Custom SQL queries in Groundhog](http://codinginfinity.me/post/2015-08-17/custom_sql_queries_in_groundhog)
+* [Groundhog and Converters Tutorial](http://blog.plowtech.net/posts/groundhog-tutorial.html)
 
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
@@ -157,6 +158,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [web-routes](https://hackage.haskell.org/package/web-routes)
 * [restful-snap package](https://hackage.haskell.org/package/restful-snap)
 * [snap-extras package](https://hackage.haskell.org/package/snap-extras)
+* [Servant](https://haskell-servant.github.io/)
 
 
 ## Web developement learning
