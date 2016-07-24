@@ -71,6 +71,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/)
 * [Haskell/Existentially quantified types](https://en.wikibooks.org/wiki/Haskell/Existentially_quantified_types)
 * [Phantom types](https://wiki.haskell.org/Phantom_type)
+* [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
