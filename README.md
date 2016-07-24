@@ -72,6 +72,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Haskell/Existentially quantified types](https://en.wikibooks.org/wiki/Haskell/Existentially_quantified_types)
 * [Phantom types](https://wiki.haskell.org/Phantom_type)
 * [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html)
+* [Empty type](https://wiki.haskell.org/Empty_type)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
@@ -125,6 +126,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Blunt: converts Haskell expressions between the pointfree and pointful styles](https://blunt.herokuapp.com/)
 * [Pointfree package](http://hackage.haskell.org/package/pointfree)
 * [pointful package](http://hackage.haskell.org/package/pointful)
+* [ghci-color: colorize ghci output](https://github.com/rhysd/ghci-color)
 
 ## Performance 
 * [Criterion](https://hackage.haskell.org/package/criterion)
@@ -140,6 +142,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [persistent package](https://hackage.haskell.org/package/persistent)
 * [Custom SQL queries in Groundhog](http://codinginfinity.me/post/2015-08-17/custom_sql_queries_in_groundhog)
 * [Groundhog and Converters Tutorial](http://blog.plowtech.net/posts/groundhog-tutorial.html)
+* [Creating sqlite tables with Groundhog's default settings](https://begriffs.com/posts/2013-08-31-creating-sqlite-tables-with-groundhogs.html)
+
 
 ## Concurrency
 * [All about MVars](http://blog.ezyang.com/2011/02/all-about-mvars/)
@@ -309,6 +313,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Configuration
 * [Data.Configurator: for working with configuration files](https://hackage.haskell.org/package/configurator-0.3.0.0/docs/Data-Configurator.html)
 gs
+
+## Template Haskell 
+* [24 Days of GHC Extensions: Template Haskell](https://ocharles.org.uk/blog/guest-posts/2014-12-22-template-haskell.html)
 
 ## DSLs 
 * [Quasiquotation](https://wiki.haskell.org/Quasiquotation)
