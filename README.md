@@ -281,6 +281,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Ncatlab: Monoidal category](https://ncatlab.org/nlab/show/monoidal+category)
 * [Monoidal categories](https://unapologetic.wordpress.com/2007/06/28/monoidal-categories/)
 * [Wikipedia: Monoidal Category](https://en.wikipedia.org/wiki/Monoidal_category)
+* [Monoidal Functor](https://ncatlab.org/nlab/show/monoidal+functor)
+* [Category theory/Natural transformation](https://wiki.haskell.org/Category_theory/Natural_transformation)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
