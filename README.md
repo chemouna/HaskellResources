@@ -283,6 +283,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Wikipedia: Monoidal Category](https://en.wikipedia.org/wiki/Monoidal_category)
 * [Monoidal Functor](https://ncatlab.org/nlab/show/monoidal+functor)
 * [Category theory/Natural transformation](https://wiki.haskell.org/Category_theory/Natural_transformation)
+* [Morphism](https://en.wikipedia.org/wiki/Morphism)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
