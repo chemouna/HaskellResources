@@ -221,6 +221,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
 * [Haskell Applicative Functors Explained Without Words](https://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
+* [Thing I Learned Today: Functors in Haskell](http://brianshourd.com/posts/2012-10-26-tilt-functors-in-haskell.html)
 
 ## Foldable
 * [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
@@ -376,6 +377,7 @@ gs
 * [Brent Yorgey's Blog](https://byorgey.wordpress.com/)
 * [Jaguarpaw Blog](http://web.jaguarpaw.co.uk/~tom/blog/)
 * [Alexey Shmalko's Blog](http://www.alexeyshmalko.com/)
+* [Brian Shourd's Blog](http://brianshourd.com/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
