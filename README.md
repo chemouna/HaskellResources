@@ -285,6 +285,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monoidal Functor](https://ncatlab.org/nlab/show/monoidal+functor)
 * [Category theory/Natural transformation](https://wiki.haskell.org/Category_theory/Natural_transformation)
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
+* [You Could Have Defined Natural Transformations](http://blog.sigfpe.com/2008/05/you-could-have-defined-natural.html)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
