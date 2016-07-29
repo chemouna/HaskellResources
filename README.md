@@ -280,6 +280,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Understanding Yoneda](https://bartoszmilewski.com/2013/05/15/understanding-yoneda/)
 * [Ncatlab: Monoidal category](https://ncatlab.org/nlab/show/monoidal+category)
 * [Monoidal categories](https://unapologetic.wordpress.com/2007/06/28/monoidal-categories/)
+* [Wikipedia: Monoidal Category](https://en.wikipedia.org/wiki/Monoidal_category)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
