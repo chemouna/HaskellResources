@@ -278,6 +278,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [categories from category-extras](https://github.com/ekmett/categories)
 * [adjunctions](https://github.com/ekmett/adjunctions/)
 * [Understanding Yoneda](https://bartoszmilewski.com/2013/05/15/understanding-yoneda/)
+* [Monoidal category](https://ncatlab.org/nlab/show/monoidal+category)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
