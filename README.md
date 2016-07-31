@@ -181,7 +181,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Heist Templates](http://snapframework.com/docs/tutorials/heist)
 * [Compiled Heist: The Walkthrough](http://chromaticleaves.com/posts/compiled-heist-the-walkthrough.html)
 * [24 Days of Hackage: digestive-functors](https://ocharles.org.uk/blog/posts/2012-12-02-digestive-functors.html)
-
+* [digestive-functors tutorial](https://github.com/jaspervdj/digestive-functors/blob/master/examples/tutorial.lhs)
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
