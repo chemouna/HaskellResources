@@ -393,6 +393,9 @@ gs
 * [A collection of links for the new haskeller](https://github.com/a3gis/haskell-resources)
 * [Useful online resources to learn Haskell](https://blog.pusher.com/best-free-online-resources-to-learn-haskell/)
 
+## Papers 
+* [Research papers - Type systems](https://wiki.haskell.org/Research_papers/Type_systems)
+
 ## Libraries
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
 * [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
