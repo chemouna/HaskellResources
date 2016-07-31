@@ -74,6 +74,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Phantom types](https://wiki.haskell.org/Phantom_type)
 * [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html)
 * [Empty type](https://wiki.haskell.org/Empty_type)
+* [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
