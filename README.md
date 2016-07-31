@@ -383,6 +383,7 @@ gs
 * [Jaguarpaw Blog](http://web.jaguarpaw.co.uk/~tom/blog/)
 * [Alexey Shmalko's Blog](http://www.alexeyshmalko.com/)
 * [Brian Shourd's Blog](http://brianshourd.com/)
+* [Dave Menendez Blog](https://www.eyrie.org/~zednenem/topic/haskell/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
