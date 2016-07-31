@@ -128,6 +128,8 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Pointfree package](http://hackage.haskell.org/package/pointfree)
 * [pointful package](http://hackage.haskell.org/package/pointful)
 * [ghci-color: colorize ghci output](https://github.com/rhysd/ghci-color)
+* [hsimport](https://github.com/dan-t/hsimport)
+* [Halberd: tool to help you add missing imports to your Haskell source files](https://hackage.haskell.org/package/halberd)
 
 ## Performance 
 * [Criterion](https://hackage.haskell.org/package/criterion)
@@ -178,6 +180,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [What are Snaplets ?](http://snapframework.com/docs/tutorials/snaplets-tutorial)
 * [Heist Templates](http://snapframework.com/docs/tutorials/heist)
 * [Compiled Heist: The Walkthrough](http://chromaticleaves.com/posts/compiled-heist-the-walkthrough.html)
+* [24 Days of Hackage: digestive-functors](https://ocharles.org.uk/blog/posts/2012-12-02-digestive-functors.html)
 
 
 ## Testing
