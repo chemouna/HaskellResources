@@ -75,6 +75,8 @@ Compilation of useful resources i've user to learn Haskell
 * [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html)
 * [Empty type](https://wiki.haskell.org/Empty_type)
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses)
+* [Summary of the paper Making ad-hoc polymorphism less ad hoc](https://swizec.com/blog/week-20-making-ad-hoc-polymorphism-less-ad-hoc/swizec/6564)
+* [Paper How to make ad-hoc polymorphism less ad hoc](http://www.cse.iitk.ac.in/users/karkare/courses/2010/cs653/Papers/ad-hoc-polymorphism.pdf)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
