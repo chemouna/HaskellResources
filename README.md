@@ -51,6 +51,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Higher-order list operations](http://matt.might.net/articles/higher-order-list-operations/)
 * [map-syntax package](https://hackage.haskell.org/package/map-syntax)
 * [psqueues package](https://hackage.haskell.org/package/psqueues)
+* [Finger Trees Done Right (I hope)](http://scienceblogs.com/goodmath/2010/04/26/finger-trees-done-right-i-hope/)
 
 ## Types
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
@@ -217,6 +218,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Split: Combinator library for splitting lists](https://hackage.haskell.org/package/split-0.1.1)
 * [Text](https://hackage.haskell.org/package/text)
 * [Typeable and Data in Haskell](http://chrisdone.com/posts/data-typeable)
+* [Data.Sequence](https://hackage.haskell.org/package/containers-0.5.7.1/docs/Data-Sequence.html)
 
 ## String Types
 * [ByteString](https://hackage.haskell.org/package/bytestring-0.10.8.1)
