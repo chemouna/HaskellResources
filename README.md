@@ -55,6 +55,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Monoids and Finger Trees](http://apfelmus.nfshost.com/articles/monoid-fingertree.html)
 * [Finger Trees](http://andrew.gibiansky.com/blog/haskell/finger-trees/)
 * [Zippers: Making Functional “Updates” Efficient](http://scienceblogs.com/goodmath/2010/01/13/zippers-making-functional-upda/)
+* [Functional Pearls: The Zipper](https://caffeinatedcode.wordpress.com/2008/09/09/functional-pearls-2-the-zipper/)
 
 ## Types
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
@@ -393,6 +394,7 @@ gs
 * [Alexey Shmalko's Blog](http://www.alexeyshmalko.com/)
 * [Brian Shourd's Blog](http://brianshourd.com/)
 * [Dave Menendez Blog](https://www.eyrie.org/~zednenem/topic/haskell/)
+* [Caffeinated code Blog](https://caffeinatedcode.wordpress.com/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
