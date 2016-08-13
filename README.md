@@ -265,6 +265,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monad Transformers Tutorial](https://wiki.haskell.org/Monad_Transformers_Tutorial)
 * [Monad morphisms](http://www.haskellforall.com/2013/03/mmorph-100-monad-morphisms.html)
 * [mmorph package](https://hackage.haskell.org/package/mmorph-1.0.6)
+* [Monad Transformer: Stephen Diehl tutorial](http://dev.stephendiehl.com/hask/#monad-transformers)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
