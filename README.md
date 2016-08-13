@@ -331,6 +331,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Exception Handling and Error Reporting
 * [Haskell Wiki on Exception](https://wiki.haskell.org/Exception)
 * [8 ways to report errors in Haskell](http://www.randomhacks.net/2007/03/10/haskell-8-ways-to-report-errors/)
+* [The errors package](http://hackage.haskell.org/package/errors)
 
 ## Parallelism
 * [Repa:  high performance, regular, multi-dimensional, shape polymorphic parallel arrays](http://hackage.haskell.org/package/repa-3.2.3.3)
