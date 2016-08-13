@@ -263,6 +263,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Grok Haskell Monad Transformers](http://blog.sigfpe.com/2006/05/grok-haskell-monad-transformers.html)
 * [Building Monad Transformers - Part 1](http://blog.jakubarnold.cz/2014/07/22/building-monad-transformers-part-1.html)
 * [Monad Transformers Tutorial](https://wiki.haskell.org/Monad_Transformers_Tutorial)
+* [Monad morphisms](http://www.haskellforall.com/2013/03/mmorph-100-monad-morphisms.html)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
