@@ -185,12 +185,13 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [24 Days of Hackage: snap](https://ocharles.org.uk/blog/posts/2012-12-19-24-days-of-hackage-snap.html)
 * [A REST API with Haskell and Snap](https://robots.thoughtbot.com/a-rest-api-with-haskell-and-snap)
 * [A Quick Into to Snap](http://bonus500.github.io/sc2blog/#title-slide)
-* [The Web Problem, and solving it in Haskell](http://research.operationaldynamics.com/~andrew/talks/TheWebProblem,SolvingItInHaskell/TheWebProblem.html#start)p
+* [The Web Problem, and solving it in Haskell](http://research.operationaldynamics.com/~andrew/talks/TheWebProblem,SolvingItInHaskell/TheWebProblem.html#start)
 * [What are Snaplets ?](http://snapframework.com/docs/tutorials/snaplets-tutorial)
 * [Heist Templates](http://snapframework.com/docs/tutorials/heist)
 * [Compiled Heist: The Walkthrough](http://chromaticleaves.com/posts/compiled-heist-the-walkthrough.html)
 * [24 Days of Hackage: digestive-functors](https://ocharles.org.uk/blog/posts/2012-12-02-digestive-functors.html)
 * [digestive-functors tutorial](https://github.com/jaspervdj/digestive-functors/blob/master/examples/tutorial.lhs)
+* [digestive-functors for Snap users](https://jaspervdj.be/posts/2012-04-03-digestive-functors-for-snap-users.html)
 
 ## Testing
 * [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [On Github](https://github.com/nick8325/quickcheck).
