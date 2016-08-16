@@ -247,6 +247,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monoid: Haskell: Using monoids when sorting by multiple parameters](http://www.markhneedham.com/blog/2012/05/23/haskell-using-monoids-when-sorting-by-multiple-parameters/)
 * [Understanding Free Monoids and Universal Constructions](https://bartoszmilewski.com/2013/12/21/understanding-free-monoids-and-universal-constructions/)
 * [Monoid](https://wiki.haskell.org/Monoid)
+* [Monoids in Haskell](http://www.mjoldfield.com/atelier/2015/04/monoid.html)
 
 ## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
@@ -268,6 +269,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [mmorph package](https://hackage.haskell.org/package/mmorph-1.0.6)
 * [Monad Transformer: Stephen Diehl tutorial](http://dev.stephendiehl.com/hask/#monad-transformers)
 * [Monad Transformers history Blog post](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
+* [In Praise of EitherT](https://ocharles.org.uk/blog/posts/2012-07-24-in-praise-of-EitherT.html)
 
 
 ## Arrows
@@ -402,6 +404,7 @@ gs
 * [Brian Shourd's Blog](http://brianshourd.com/)
 * [Dave Menendez Blog](https://www.eyrie.org/~zednenem/topic/haskell/)
 * [Caffeinated code Blog](https://caffeinatedcode.wordpress.com/)
+* [Martin Oldfield Blog](http://www.mjoldfield.com/atelier/index/index.html)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
