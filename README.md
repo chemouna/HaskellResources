@@ -248,6 +248,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Understanding Free Monoids and Universal Constructions](https://bartoszmilewski.com/2013/12/21/understanding-free-monoids-and-universal-constructions/)
 * [Monoid](https://wiki.haskell.org/Monoid)
 * [Monoids in Haskell](http://www.mjoldfield.com/atelier/2015/04/monoid.html)
+* [Defaults](http://www.haskellforall.com/2013/04/defaults.html)
 
 ## Monads
 * [Research papers on Monads and arrows](https://wiki.haskell.org/Research_papers/Monads_and_arrows#Arrows)
