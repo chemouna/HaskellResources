@@ -311,6 +311,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
 * [You Could Have Defined Natural Transformations](http://blog.sigfpe.com/2008/05/you-could-have-defined-natural.html)
 * [What’s a natural transformation?](https://lukepalmer.wordpress.com/2008/04/28/whats-a-natural-transformation/)
+* [Universal Properties](https://jeremykun.com/2013/05/24/universal-properties/)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
