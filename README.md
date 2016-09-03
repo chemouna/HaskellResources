@@ -432,8 +432,8 @@ gs
 
 ## Libraries
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
-* [The Happy parser generator for Haskell](https://github.com/simonmar/happy).
-* [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren).
+* [The Happy parser generator for Haskell](https://github.com/simonmar/happy)
+* [miniKaren implementation in Haskell](https://bitbucket.org/jozefg/ds-kanren)
 * [Haxl](https://github.com/facebook/Haxl)
 * [Template Haskell](https://wiki.haskell.org/Template_Haskell)
 * [Haskell Packages by category](http://hackage.haskell.org/packages)
@@ -447,6 +447,11 @@ gs
 * [Lens](https://hackage.haskell.org/package/lens), [on github](https://github.com/ekmett/lens)
 * [Haskell-Annah-Library: Distributed programming language that desugars to Morte ](https://github.com/Gabriel439/Haskell-Annah-Library)
 * [A bare-bones calculus-of-constructions](https://github.com/Gabriel439/Haskell-Morte-Library)
+* [http-streams](https://hackage.haskell.org/package/http-streams)
+* [io-streams](https://github.com/snapframework/io-streams)
+* [semigroups](https://hackage.haskell.org/package/semigroups)
+* [24 Days of Hackage: contravariant](https://ocharles.org.uk/blog/guest-posts/2013-12-21-24-days-of-hackage-contravariant.html)
+
 
 ## Open source code to read 
 * [Ross Paterson code](http://hub.darcs.net/ross)
