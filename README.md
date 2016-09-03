@@ -90,6 +90,9 @@ Compilation of useful resources i've user to learn Haskell
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
 * [Recursion patterns, polymorphism, and the Prelude](http://www.seas.upenn.edu/~cis194/spring13/lectures/03-rec-poly.html)
+* [Lazy vs. non-strict](https://wiki.haskell.org/Lazy_vs._non-strict)
+* [Non-strict semantics](https://wiki.haskell.org/Non-strict_semantics)
+* [Performance/Strictness](https://wiki.haskell.org/Performance/Strictness)
 
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
@@ -112,6 +115,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Combinator](https://wiki.haskell.org/Combinator)
 * [How I finally understood the Y Combinator (and blew my damn mind)](https://noeit.wordpress.com/2009/04/28/how-i-finally-understood-the-y-combinator-and-blew-my-damn-mind/)
 * [Partial functions](https://wiki.haskell.org/Partial_functions)
+
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
@@ -265,6 +269,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [monad-logger package](https://hackage.haskell.org/package/monad-logger)
 * [Control.Monad.Reader](https://hackage.haskell.org/package/mtl-2.2.1/docs/Control-Monad-Reader.html)
 * [Comonad](https://hackage.haskell.org/package/comonad-5)
+
+## IO 
+* [IO inside](https://wiki.haskell.org/IO_inside)
 
 ## Monad Transformers
 * [Grok Haskell Monad Transformers](http://blog.sigfpe.com/2006/05/grok-haskell-monad-transformers.html)
