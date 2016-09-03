@@ -245,6 +245,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell Applicative Functors Explained Without Words](https://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
 * [Thing I Learned Today: Functors in Haskell](http://brianshourd.com/posts/2012-10-26-tilt-functors-in-haskell.html)
 
+## Profunctors
+* [I love profunctors. They're so easy](https://www.schoolofhaskell.com/user/liyang/profunctors)
+
 ## Foldable
 * [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
 
@@ -321,6 +324,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [You Could Have Defined Natural Transformations](http://blog.sigfpe.com/2008/05/you-could-have-defined-natural.html)
 * [What’s a natural transformation?](https://lukepalmer.wordpress.com/2008/04/28/whats-a-natural-transformation/)
 * [Universal Properties](https://jeremykun.com/2013/05/24/universal-properties/)
+* [Kleisli category](https://en.wikipedia.org/wiki/Kleisli_category)
 
 ## Dependent Types
 * [The singletons package](https://hackage.haskell.org/package/singletons)
@@ -451,7 +455,6 @@ gs
 * [io-streams](https://github.com/snapframework/io-streams)
 * [semigroups](https://hackage.haskell.org/package/semigroups)
 * [24 Days of Hackage: contravariant](https://ocharles.org.uk/blog/guest-posts/2013-12-21-24-days-of-hackage-contravariant.html)
-
 
 ## Open source code to read 
 * [Ross Paterson code](http://hub.darcs.net/ross)
