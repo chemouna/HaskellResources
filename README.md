@@ -93,6 +93,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Lazy vs. non-strict](https://wiki.haskell.org/Lazy_vs._non-strict)
 * [Non-strict semantics](https://wiki.haskell.org/Non-strict_semantics)
 * [Performance/Strictness](https://wiki.haskell.org/Performance/Strictness)
+* [Combinator](https://wiki.haskell.org/Combinator)
 
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
