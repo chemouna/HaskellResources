@@ -364,8 +364,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Data.Configurator: for working with configuration files](https://hackage.haskell.org/package/configurator-0.3.0.0/docs/Data-Configurator.html)
 gs
 
-## Template Haskell 
+## Extensions
 * [24 Days of GHC Extensions: Template Haskell](https://ocharles.org.uk/blog/guest-posts/2014-12-22-template-haskell.html)
+* [24 Days of GHC Extensions: Record Wildcards](https://ocharles.org.uk/blog/posts/2014-12-04-record-wildcards.html)
 
 ## DSLs 
 * [Quasiquotation](https://wiki.haskell.org/Quasiquotation)
@@ -457,6 +458,7 @@ gs
 * [semigroups](https://hackage.haskell.org/package/semigroups)
 * [24 Days of Hackage: contravariant](https://ocharles.org.uk/blog/guest-posts/2013-12-21-24-days-of-hackage-contravariant.html)
 * [constraints package](http://hackage.haskell.org/package/constraints)
+
 
 ## Open source code to read 
 * [Ross Paterson code](http://hub.darcs.net/ross)
