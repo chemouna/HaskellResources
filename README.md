@@ -459,7 +459,7 @@ gs
 * [semigroups](https://hackage.haskell.org/package/semigroups)
 * [24 Days of Hackage: contravariant](https://ocharles.org.uk/blog/guest-posts/2013-12-21-24-days-of-hackage-contravariant.html)
 * [constraints package](http://hackage.haskell.org/package/constraints)
-
+* [Aeson](https://hackage.haskell.org/package/aeson)
 
 ## Open source code to read 
 * [Ross Paterson code](http://hub.darcs.net/ross)
