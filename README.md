@@ -116,7 +116,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Combinator](https://wiki.haskell.org/Combinator)
 * [How I finally understood the Y Combinator (and blew my damn mind)](https://noeit.wordpress.com/2009/04/28/how-i-finally-understood-the-y-combinator-and-blew-my-damn-mind/)
 * [Partial functions](https://wiki.haskell.org/Partial_functions)
-
+* [Let vs. Where](https://wiki.haskell.org/Let_vs._Where)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
@@ -287,6 +287,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monad Transformers history Blog post](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
 * [In Praise of EitherT](https://ocharles.org.uk/blog/posts/2012-07-24-in-praise-of-EitherT.html)
 * [Effectful Haskell: Reader, Transformers, Typeclasses](https://slpopejoy.github.io/posts/Effectful02.html)
+* [Typeclassopedia's section on Monad transformers](http://users.ugent.be/~tschrijv/Research/papers/icfp2011.pdf)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
