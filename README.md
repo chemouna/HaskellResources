@@ -286,7 +286,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Monad Transformer: Stephen Diehl tutorial](http://dev.stephendiehl.com/hask/#monad-transformers)
 * [Monad Transformers history Blog post](http://conway.rutgers.edu/~ccshan/wiki/blog/posts/Monad_transformers/)
 * [In Praise of EitherT](https://ocharles.org.uk/blog/posts/2012-07-24-in-praise-of-EitherT.html)
-
+* [Effectful Haskell: Reader, Transformers, Typeclasses](https://slpopejoy.github.io/posts/Effectful02.html)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
@@ -426,6 +426,7 @@ gs
 * [Dave Menendez Blog](https://www.eyrie.org/~zednenem/topic/haskell/)
 * [Caffeinated code Blog](https://caffeinatedcode.wordpress.com/)
 * [Martin Oldfield Blog](http://www.mjoldfield.com/atelier/index/index.html)
+* [tatterdemalion: writings by stuart popejoy](https://slpopejoy.github.io/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
