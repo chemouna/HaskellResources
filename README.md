@@ -86,6 +86,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies/)
 * [Typed type-level programming in Haskell, part II: type families](https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/)
 * [Bottom](https://wiki.haskell.org/Bottom)
+* [Typed Holes](https://wiki.haskell.org/GHC/Typed_holes)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
@@ -117,6 +118,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [How I finally understood the Y Combinator (and blew my damn mind)](https://noeit.wordpress.com/2009/04/28/how-i-finally-understood-the-y-combinator-and-blew-my-damn-mind/)
 * [Partial functions](https://wiki.haskell.org/Partial_functions)
 * [Let vs. Where](https://wiki.haskell.org/Let_vs._Where)
+* [Eta conversion](https://wiki.haskell.org/Eta_expansion)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
