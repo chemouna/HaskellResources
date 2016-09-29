@@ -251,8 +251,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Profunctors
 * [I love profunctors. They're so easy](https://www.schoolofhaskell.com/user/liyang/profunctors)
 
-## Foldable
+## Foldable and Traversable
 * [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
+* [Haskell Wiki: Foldable and Traversable](https://wiki.haskell.org/Foldable_and_Traversable)
 
 ## Monoids
 * [Monoids - Typeclassopedia](https://wiki.haskell.org/Typeclassopedia#Monoid)
