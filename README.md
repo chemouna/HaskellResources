@@ -119,6 +119,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Partial functions](https://wiki.haskell.org/Partial_functions)
 * [Let vs. Where](https://wiki.haskell.org/Let_vs._Where)
 * [Eta conversion](https://wiki.haskell.org/Eta_expansion)
+* [Sum Types, Visitors, and the Expression Problem](http://koerbitz.me/posts/Sum-Types-Visitors-and-the-Expression-Problem.html)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
@@ -431,6 +432,7 @@ gs
 * [Caffeinated code Blog](https://caffeinatedcode.wordpress.com/)
 * [Martin Oldfield Blog](http://www.mjoldfield.com/atelier/index/index.html)
 * [tatterdemalion: writings by stuart popejoy](https://slpopejoy.github.io/)
+* [Types and Tailcalls - yet another programmer's blog](http://koerbitz.me/)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
