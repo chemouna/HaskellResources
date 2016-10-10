@@ -292,6 +292,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [In Praise of EitherT](https://ocharles.org.uk/blog/posts/2012-07-24-in-praise-of-EitherT.html)
 * [Effectful Haskell: Reader, Transformers, Typeclasses](https://slpopejoy.github.io/posts/Effectful02.html)
 * [Typeclassopedia's section on Monad transformers](http://users.ugent.be/~tschrijv/Research/papers/icfp2011.pdf)
+* [haskell trick #1: using ErrorT](http://evan-tech.livejournal.com/246130.html)
 
 ## Arrows
 * [Arrow](https://wiki.haskell.org/Arrow)
