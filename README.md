@@ -34,6 +34,7 @@ Compilation of useful resources i've user to learn Haskell
 * [How to learn Haskell](http://dmi3s.blogspot.com/2012/07/how-to-learn-haskell.html)
 * [On Haskell, Intuition And Expressive Power](http://www.defmacro.org/ramblings/haskell-productivity.html)
 * [Four months with Haskell](http://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/)
+* [Haskell for C Programmers - For Loops](http://www.haskellforall.com/2012/01/haskell-for-c-programmers-for-loops.html)
 
 ## Currying
 * [Currying](https://wiki.haskell.org/Currying)
@@ -155,6 +156,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Performance 
 * [Criterion](https://hackage.haskell.org/package/criterion)
+* [Haskell from C: Where are the for Loops?](https://www.fpcomplete.com/blog/2013/06/haskell-from-c)
 
 
 ## Editors
@@ -425,7 +427,6 @@ gs
 * [CPS is great! CPS is terrible!](http://www.serpentine.com/blog/2011/02/25/cps-is-great-cps-is-terrible/)
 * [Bryan O'Sullivan's Blog](http://www.serpentine.com/blog/)
 * [Brandon.Si(mmons)](http://brandon.si/)
-
 * [NP-Incompleteness Blog posts by Guilherme Kunigami on Haskell](https://kunigami.wordpress.com/category/programming/haskell/)
 * [Brent Yorgey's Blog](https://byorgey.wordpress.com/)
 * [Jaguarpaw Blog](http://web.jaguarpaw.co.uk/~tom/blog/)
