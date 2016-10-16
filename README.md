@@ -87,6 +87,7 @@ Compilation of useful resources i've user to learn Haskell
 * [Typed type-level programming in Haskell, part II: type families](https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/)
 * [Bottom](https://wiki.haskell.org/Bottom)
 * [Typed Holes](https://wiki.haskell.org/GHC/Typed_holes)
+* [Existential Quantification in Haskell](http://covariant.me/notes/existential-quantification.html)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
@@ -434,6 +435,7 @@ gs
 * [Martin Oldfield Blog](http://www.mjoldfield.com/atelier/index/index.html)
 * [tatterdemalion: writings by stuart popejoy](https://slpopejoy.github.io/)
 * [Types and Tailcalls - yet another programmer's blog](http://koerbitz.me/)
+* [Covariant.me blog](http://covariant.me/index.html)
 
 ## Learning Resources
 * [haskell-bookmarks](https://github.com/grsmv/haskell-bookmarks)
