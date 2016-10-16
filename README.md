@@ -425,6 +425,7 @@ gs
 * [CPS is great! CPS is terrible!](http://www.serpentine.com/blog/2011/02/25/cps-is-great-cps-is-terrible/)
 * [Bryan O'Sullivan's Blog](http://www.serpentine.com/blog/)
 * [Brandon.Si(mmons)](http://brandon.si/)
+
 * [NP-Incompleteness Blog posts by Guilherme Kunigami on Haskell](https://kunigami.wordpress.com/category/programming/haskell/)
 * [Brent Yorgey's Blog](https://byorgey.wordpress.com/)
 * [Jaguarpaw Blog](http://web.jaguarpaw.co.uk/~tom/blog/)
