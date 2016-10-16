@@ -280,6 +280,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [monad-logger package](https://hackage.haskell.org/package/monad-logger)
 * [Control.Monad.Reader](https://hackage.haskell.org/package/mtl-2.2.1/docs/Control-Monad-Reader.html)
 * [Comonad](https://hackage.haskell.org/package/comonad-5)
+* [Streaming logging](http://www.haskellforall.com/2014/02/streaming-logging.html)
 
 ## IO 
 * [IO inside](https://wiki.haskell.org/IO_inside)
