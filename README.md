@@ -128,6 +128,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [FP newbie learns a little about applicatives](http://www.davesquared.net/2012/05/fp-newbie-learns-applicatives.html)
 * [The basics of applicative functors, put to practical work](http://www.serpentine.com/blog/2008/02/06/the-basics-of-applicative-functors-put-to-practical-work/)
 * [Applicative functor](https://wiki.haskell.org/Applicative_functor)
+* [Typeclassopedia Applicative](https://wiki.haskell.org/Typeclassopedia#Applicative)
 
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
