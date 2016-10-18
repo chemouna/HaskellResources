@@ -124,6 +124,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Eta conversion](https://wiki.haskell.org/Eta_expansion)
 * [Sum Types, Visitors, and the Expression Problem](http://koerbitz.me/posts/Sum-Types-Visitors-and-the-Expression-Problem.html)
 
+## Applicative
+* [FP newbie learns a little about applicatives](http://www.davesquared.net/2012/05/fp-newbie-learns-applicatives.html)
+* [The basics of applicative functors, put to practical work](http://www.serpentine.com/blog/2008/02/06/the-basics-of-applicative-functors-put-to-practical-work/)
+
 ## Solving problems with Haskell
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
