@@ -1,7 +1,7 @@
 # Haskell Resources
-Compilation of useful resources i've user to learn Haskell
+Compilation of useful resources i've used to learn Haskell
 
-[WIP] I will keep updating as i find new resources (My only rule is to understand the resource before putting it here).
+[WIP] I will keep updating it as i find new resources (My only rule is to understand the resource before putting it here).
 
 ## Haskell
 
