@@ -90,6 +90,7 @@ Compilation of useful resources i've used to learn Haskell
 * [Typed Holes](https://wiki.haskell.org/GHC/Typed_holes)
 * [Existential Quantification in Haskell](http://covariant.me/notes/existential-quantification.html)
 * [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html)
+* [Haskell/Phantom types](https://en.wikibooks.org/wiki/Haskell/Phantom_types)
 
 ## Concepts
 * [Lazy evaluation](https://wiki.haskell.org/Lazy_evaluation).
