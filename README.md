@@ -234,6 +234,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Tasty](http://documentup.com/feuerbach/tasty)
 * [SmallCheck](https://github.com/feuerbach/smallcheck)
 * [QuickCheck: Type-directed Property Testing](https://cseweb.ucsd.edu/classes/wi11/cse230/lectures/quickcheck.html)
+* [QuickCheck 2](https://wiki.haskell.org/Introduction_to_QuickCheck2)
 
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
