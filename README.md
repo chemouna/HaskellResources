@@ -235,6 +235,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [SmallCheck](https://github.com/feuerbach/smallcheck)
 * [QuickCheck: Type-directed Property Testing](https://cseweb.ucsd.edu/classes/wi11/cse230/lectures/quickcheck.html)
 * [QuickCheck 2](https://wiki.haskell.org/Introduction_to_QuickCheck2)
+* [System.FilePath, automated testing](http://neilmitchell.blogspot.fr/2006/11/systemfilepath-automated-testing.html)
 
 ## Debugging
 * [Emacs support for debugging Haskell](http://chrisdone.com/posts/ghci-debugger)
