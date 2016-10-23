@@ -260,6 +260,9 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [utf8-string](https://hackage.haskell.org/package/utf8-string)
 * [ListLike package](http://hackage.haskell.org/package/ListLike)
 
+## Algorithms Analysis
+* [Haskell/Algorithm complexity](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
+
 ## Functors
 * [How do functors work in haskell?](http://stackoverflow.com/questions/13134825/how-do-functors-work-in-haskell)
 * [Haskell Applicative Functors Explained Without Words](https://begriffs.com/posts/2013-08-28-weird-symbols-in-their-native-tongue_27.html)
