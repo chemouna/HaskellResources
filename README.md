@@ -57,6 +57,7 @@ Compilation of useful resources i've used to learn Haskell
 * [Zippers: Making Functional “Updates” Efficient](http://scienceblogs.com/goodmath/2010/01/13/zippers-making-functional-upda/)
 * [Functional Pearls: The Zipper](https://caffeinatedcode.wordpress.com/2008/09/09/functional-pearls-2-the-zipper/)
 * [Enumerator and iteratee](https://wiki.haskell.org/Enumerator_and_iteratee)
+* [Okasaki's Lazy Queues](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2015/01/28/okasakis-lazy-queue.lhs/)
 
 ## Types
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
