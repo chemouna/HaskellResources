@@ -399,6 +399,7 @@ gs
 * [24 Days of GHC Extensions: Record Wildcards](https://ocharles.org.uk/blog/posts/2014-12-04-record-wildcards.html)
 * [Record wildcards](https://kseo.github.io/posts/2014-02-10-record-wildcards.html)
 * [24 Days of GHC Extensions: Deriving](https://ocharles.org.uk/blog/guest-posts/2014-12-15-deriving.html)
+* [24 Days of GHC Extensions: Multi-parameter Type Classes](https://ocharles.org.uk/blog/posts/2014-12-13-multi-param-type-classes.html)
 
 ## DSLs 
 * [Quasiquotation](https://wiki.haskell.org/Quasiquotation)
