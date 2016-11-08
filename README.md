@@ -59,6 +59,7 @@ Compilation of useful resources i've used to learn Haskell
 * [Enumerator and iteratee](https://wiki.haskell.org/Enumerator_and_iteratee)
 * [Okasaki's Lazy Queues](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2015/01/28/okasakis-lazy-queue.lhs/)
 * [Haskell: Queues without pointers](http://www.randomhacks.net/2007/02/08/haskell-queues-without-pointers/)
+* [Hashtables library](http://gregorycollins.net/posts/2011/06/11/announcing-hashtables)
 
 ## Types
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
@@ -472,6 +473,8 @@ gs
 ## Papers 
 * [Research papers - Type systems](https://wiki.haskell.org/Research_papers/Type_systems)
 
+## Monad Reader Issues 
+* 
 ## Libraries
 * [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
 * [The Happy parser generator for Haskell](https://github.com/simonmar/happy)
