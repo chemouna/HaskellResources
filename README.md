@@ -110,6 +110,10 @@ Compilation of useful resources i've used to learn Haskell
 * [Modules And Some Haskell Examples](http://learnyouahaskell.com/modules)
 * [Import Statement](https://wiki.haskell.org/Import)
 
+## Comparison with other languages 
+* [Maybe, null, and boilerplate code](https://jaspervdj.be/posts/2010-01-04-maybe-null-boilerplate.html#fnref1)
+
+
 ## Functions
 * [Infix operator](https://wiki.haskell.org/Infix_operator)
 * [Custom Infix Operators in Haskell](http://www.csinaction.com/2015/03/31/custom-infix-operators-in-haskell/)
