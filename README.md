@@ -104,7 +104,7 @@ Compilation of useful resources i've used to learn Haskell
 * [Performance/Strictness](https://wiki.haskell.org/Performance/Strictness)
 * [Combinator](https://wiki.haskell.org/Combinator)
 * [Haskell Laziness](https://en.wikibooks.org/wiki/Haskell/Laziness#Separation_of_concerns_without_time_penalty)
-* [More Points For Lazy Evaluation](http://augustss.blogspot.fr/2011/05/more-points-for-lazy-evaluation-in.html#9179692557047549637)
+* [More Points For Lazy Evaluation](http://augustss.blogspot.fr/2011/05/more-points-for-lazy-evaluation-in.html#91796925570475496* [Point-Free Style: What is it good for ?](http://buffered.io/posts/point-free-style-what-is-it-good-for/) 
 
 ## Module System
 * [Modules Tutorial](https://www.haskell.org/tutorial/modules.html)
