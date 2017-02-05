@@ -268,6 +268,10 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [utf8-string](https://hackage.haskell.org/package/utf8-string)
 * [ListLike package](http://hackage.haskell.org/package/ListLike)
 
+## Algorithms
+* [Knuth-Morris-Pratt in Haskell](http://www.twanvl.nl/blog/haskell/Knuth-Morris-Pratt-in-Haskell)
+* [Sorting algorithms in Haskell](https://smthngsmwhr.wordpress.com/2012/11/09/sorting-algorithms-in-haskell/)
+
 ## Algorithms Analysis
 * [Haskell/Algorithm complexity](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
 
