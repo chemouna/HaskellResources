@@ -60,6 +60,7 @@ Compilation of useful resources i've used to learn Haskell
 * [Okasaki's Lazy Queues](http://goto.ucsd.edu/~rjhala/liquid/haskell/blog/blog/2015/01/28/okasakis-lazy-queue.lhs/)
 * [Haskell: Queues without pointers](http://www.randomhacks.net/2007/02/08/haskell-queues-without-pointers/)
 * [Hashtables library](http://gregorycollins.net/posts/2011/06/11/announcing-hashtables)
+* [Tree Traversal, Depth first and Breadth first in Haskell](http://aryweb.nl/2013/10/28/haskell-tree-traversal/)
 
 ## Types
 * [Haskell: Explicit type declarations in GHCI](http://www.markhneedham.com/blog/2012/05/10/haskell-explicit-type-declarations-in-ghci/#disqus_thread)
