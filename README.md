@@ -273,6 +273,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Knuth-Morris-Pratt in Haskell](http://www.twanvl.nl/blog/haskell/Knuth-Morris-Pratt-in-Haskell)
 * [Sorting algorithms in Haskell](https://smthngsmwhr.wordpress.com/2012/11/09/sorting-algorithms-in-haskell/)
 * [Flood Fill Algorithm in Haskell](http://www.markhneedham.com/blog/2012/04/07/algorithms-flood-fill-in-haskell/)
+* [Using Flood Fill to solve a maze problem](https://sulami.github.io/haskell-flood-fills.html)
 
 ## Algorithms Analysis
 * [Haskell/Algorithm complexity](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
