@@ -153,6 +153,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 
 ## Interesting Blog Posts
 * [How to desugar Haskell code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
+* [Writing an LRU Cache in Haskell](https://jaspervdj.be/posts/2015-02-24-lru-cache.html)
 
 ## Tools
 * [Hoogle: Haskell API search engine](https://www.haskell.org/hoogle/)
