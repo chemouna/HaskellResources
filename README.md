@@ -513,6 +513,7 @@ gs
 * [Aeson](https://hackage.haskell.org/package/aeson)
 * [LRU caching](https://github.com/cocreature/lrucaching)
 * [LRU cache](https://github.com/chowells79/lrucache)
+* [pqueue: A fast, reliable priority queue implementation based on a binomial heap.](http://hackage.haskell.org/package/pqueue)
 
 ## Open source code to read 
 * [Ross Paterson code](http://hub.darcs.net/ross)
