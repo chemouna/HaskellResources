@@ -177,7 +177,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 ## Performance 
 * [Criterion](https://hackage.haskell.org/package/criterion)
 * [Haskell from C: Where are the for Loops?](https://www.fpcomplete.com/blog/2013/06/haskell-from-c)
-
+* [Floating Point: Don't use Float](https://wiki.haskell.org/Performance/Floating_point)
 
 ## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
