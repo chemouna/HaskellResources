@@ -276,6 +276,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Flood Fill Algorithm in Haskell](http://www.markhneedham.com/blog/2012/04/07/algorithms-flood-fill-in-haskell/)
 * [Using Flood Fill to solve a maze problem](https://sulami.github.io/haskell-flood-fills.html)
 * [Purely Functional Tree Search in Haskell](http://tullo.ch/articles/haskell-search/)
+* [Haskell: Maximum Int value](http://www.markhneedham.com/blog/2012/05/07/haskell-maximum-int-value/)
 
 ## Algorithms Analysis
 * [Haskell/Algorithm complexity](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
