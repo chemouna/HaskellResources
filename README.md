@@ -279,6 +279,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Haskell: Maximum Int value](http://www.markhneedham.com/blog/2012/05/07/haskell-maximum-int-value/)
 * [Median-of-Medians in Haskell](http://austinrochford.com/posts/2013-10-29-median-of-medians-in-haskell.html)
 * [The KMP algorithm in Haskell](http://chaoxuprime.com/posts/2014-04-11-the-kmp-algorithm-in-haskell.html)
+* [Lazy Dynamic Programming](http://jelv.is/blog/Lazy-Dynamic-Programming/)
 
 ## Algorithms Analysis
 * [Haskell/Algorithm complexity](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
