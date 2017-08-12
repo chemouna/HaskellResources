@@ -520,6 +520,7 @@ gs
 * [LRU caching](https://github.com/cocreature/lrucaching)
 * [LRU cache](https://github.com/chowells79/lrucache)
 * [pqueue: A fast, reliable priority queue implementation based on a binomial heap.](http://hackage.haskell.org/package/pqueue)
+* [safe package: wrapping Prelude/Data.List functions that can throw exceptions](https://hackage.haskell.org/package/safe)
 
 ## Open source code to read 
 * [Ross Paterson code](http://hub.darcs.net/ross)
