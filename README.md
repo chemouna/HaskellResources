@@ -182,6 +182,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Floating Point: Don't use Float](https://wiki.haskell.org/Performance/Floating_point)
 * [How to calculate binomial coefficients Part 1](https://blog.plover.com/math/choose.html)
 * [How to calculate binomial coefficients Part 2 ](https://blog.plover.com/math/choose-2.html)
+* [Efficient Binomial Coefficients](https://crypto.stanford.edu/~blynn/pr/choose.html)
 
 ## Editors
 * [Haskell-emacs](http://chrisdone.com/posts/haskell-emacs)
