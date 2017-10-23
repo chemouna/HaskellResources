@@ -288,6 +288,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [The KMP algorithm in Haskell](http://chaoxuprime.com/posts/2014-04-11-the-kmp-algorithm-in-haskell.html)
 * [Lazy Dynamic Programming](http://jelv.is/blog/Lazy-Dynamic-Programming/)
 * [Descending sort in Haskell](https://ro-che.info/articles/2016-04-02-descending-sort-haskell)
+* [Quicksort and k-th smallest elements](https://apfelmus.nfshost.com/articles/quicksearch.html)
 
 ## Algorithms Analysis
 * [Haskell/Algorithm complexity](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
