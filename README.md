@@ -139,6 +139,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Let vs. Where](https://wiki.haskell.org/Let_vs._Where)
 * [Eta conversion](https://wiki.haskell.org/Eta_expansion)
 * [Sum Types, Visitors, and the Expression Problem](http://koerbitz.me/posts/Sum-Types-Visitors-and-the-Expression-Problem.html)
+* [Deriving list scans](http://conal.net/blog/posts/deriving-list-scans)
 
 ## Applicative
 * [FP newbie learns a little about applicatives](http://www.davesquared.net/2012/05/fp-newbie-learns-applicatives.html)
